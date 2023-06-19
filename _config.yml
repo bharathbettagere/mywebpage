@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "B.N.Bharath"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I like to teach and conduct research in the broad area of communication engineering. Luckily for me, I earn my bread that way!"
+  location         : #""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.co.in/citations?user=AOuGtukAAAAJ&hl=en
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ieee             : https://ieeexplore.ieee.org/author/37645649500
 
 
 # Reading Files
