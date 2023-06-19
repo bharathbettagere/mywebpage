@@ -16,7 +16,7 @@ author_profile: true
 5. *B. N. Bharath and C. R. Murthy,* **Power Controlled Reverse Channel Training Achieves an Infinite Diversity Order in a TDD-SIMO System with Perfect CSIR**, IEEE Communications Letters, vol. 16, no. 11, pp. 1800-1803, Nov. 2012.
 6. *B. N. Bharath and C. R. Murthy,* **On the DMT of TDD-SIMO Systems with Channel-Dependent Reverse Channel Training**, IEEE Transactions on Commun., vol. 60, no. 11, pp. 3332-3341, Nov. 2012.
 
-## 
+
 
 ## **Conference publications** 
 
