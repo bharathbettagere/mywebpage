@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "B.N.Bharat"
+title                    : "B.N.Bharath"
 title_separator          : "-"
-name                     : &name "B.N.Bharat"
+name                     : &name "B.N.Bharath"
 description              : &description "personal description"
 url                      : https://amithmalaghan.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  ieee             : https://ieeexplore.ieee.org/author/37645649500
+  url              : https://ieeexplore.ieee.org/author/37645649500
 
 
 # Reading Files
