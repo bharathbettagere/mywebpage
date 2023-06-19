@@ -1,9 +1,11 @@
 ---
-permalink: //
+permalink: /Courses-Offered/
 title: ""
-excerpt: "LIaN"
+excerpt: "Courses Offered"
 author_profile: true
 #redirect_from: 
  # - /LIaN/
   #- /LIaN.html
 ---
+
+# hi
