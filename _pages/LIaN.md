@@ -5,7 +5,7 @@ excerpt: "LIaN"
 author_profile: true
 redirect_from: 
   - /LIaN/
-  - /LIaN.md
+  - /LIaN.html
 ---
 
 
