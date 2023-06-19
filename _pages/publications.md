@@ -9,10 +9,8 @@ author_profile: true
 
 ## **Journal Publications** 
 
-1. *B. N. Bharath, K. G. Nagananda, Deniz Gunduz and H. Vincent Poor*, **Caching With Time-Varying Popularity Profiles: A Learning-Theoretic Perspective,** *accepted* at IEEE Transactions on communications, May 2018**.**
-
-*2. B. N. Bharath,* *K. G. Nagananda and H. Vincent Poor,* **Caching with Unknown Popularity Profiles in Heterogenous Small Cell Networks,** IEEE Transactions on Communications, No. 18, vol. 64, pp. 1674-1686, Apr. 2016.
-
+1. *B. N. Bharath, K. G. Nagananda, Deniz Gunduz and H. Vincent Poor*, **Caching With Time-Varying Popularity Profiles: A Learning-Theoretic Perspective,** *accepted* at IEEE Transactions on communications, May 2018.
+2. *B. N. Bharath,* *K. G. Nagananda and H. Vincent Poor,* **Caching with Unknown Popularity Profiles in Heterogenous Small Cell Networks,** IEEE Transactions on Communications, No. 18, vol. 64, pp. 1674-1686, Apr. 2016.
 3. *B. N. Bharath and C. R. Murthy,* **Power-Controlled Reverse Channel Training in a Multiuser TDD-MIMO Spatial Multiplexing System with CSIR**, IEEE Transactions on Veh. Technology, vol. 62, no. 9, pp. 4345 – 4356, Nov. 2013.
 4. *B. N. Bharath and C. R. Murthy,* **Channel Training Signal Design for Reciprocal Multiple Antenna Systems with Beamforming**, IEEE Transactions on Veh. Technology, vol. 62, no. 1, pp. 140 – 151, Jan. 2013.
 5. *B. N. Bharath and C. R. Murthy,* **Power Controlled Reverse Channel Training Achieves an Infinite Diversity Order in a TDD-SIMO System with Perfect CSIR**, IEEE Communications Letters, vol. 16, no. 11, pp. 1800-1803, Nov. 2012.
