@@ -10,6 +10,9 @@ author_profile: true
 
 # Courses Offered
 
+
+
+
 **Spring 2014**
 
 - Information theory and coding
