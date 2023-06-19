@@ -42,11 +42,11 @@ author_profile: true
 
   - Introduction to Electrical Systems and Electronics (First year undergrad)
     
-    - Course information ([EE101_coursestruct)](https://bharathbettagerenagaraja.files.wordpress.com/2018/01/ee101_coursestruct.pdf)
+    - Course information ([EE101_coursestruct)](/academicpages.github.io/files/ee101_coursestruct.pdf)
     
-    - Hw 0 is online ([EE101_Hw0](https://bharathbettagerenagaraja.files.wordpress.com/2018/01/ee101_hw01.pdf))
+    - Hw 0 is online ([EE101_Hw0](/academicpages.github.io/files/ee101_hw01.pdf))
     
-    - Hw 1 is online ([HW1](https://bharathbettagerenagaraja.files.wordpress.com/2018/02/hw1.pdf))
+    - Hw 1 is online ([HW1](/academicpages.github.io/files/hw1.pdf))
     
     - Hw 2-6 are uploaded to MOODLE!
     
@@ -61,7 +61,7 @@ author_profile: true
 
 **Links & Resources**
 
-- Matrix theory - [e212_matrixtheory_oct8]()
-- Cayley Hamilton  - [cayley_hamilton](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/cayley_hamilton.pdf)
-- Compressive sensing -[compressive_sensing](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/compressive_sensing.pdf)
-- [Other useful results]() 
+- Matrix theory - [e212_matrixtheory_oct8](/academicpages.github.io/files/e212_matrixtheory_oct8.pdf)
+- Cayley Hamilton  - [cayley_hamilton](/academicpages.github.io/files/cayley_hamilton.pdf)
+- Compressive sensing -[compressive_sensing](/academicpages.github.io/files/compressive_sensing.pdf)
+- [Other useful results](/academicpages.github.io/files/useful_results.pdf) 
