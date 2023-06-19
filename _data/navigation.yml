@@ -1,3 +1,4 @@
+
 # main links links
 main:
   - title: "Publications"
@@ -15,7 +16,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
- - title: "About"
+  - title: "About"
     url: /about/
     
   - title: "Learning, Inference and Networks (LIaN) Lab"
