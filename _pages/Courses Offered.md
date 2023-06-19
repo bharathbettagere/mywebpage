@@ -8,60 +8,32 @@ author_profile: true
   #- /LIaN.html
 ---
 
-# Courses Offered
+# Courses offered
 
 
 
+- Information theory and coding (Jan. 2014 & 2016)
+- Random Processes (Jan. 2015)
+- Advanced mathematics (Graduate level) (Jan. 2015)
+- Simulation and modeling of data networks (Aug. 2015)
+- Random processes (Aug. 2016)
+- Wireless communications (Aug. 2016)
+- Digital Communication (Jan. 2016)
 
-**Spring 2014**
+- Introduction to Electrical Systems and Electronics (First year undergrad) (Jan. 2018)
+- Introduction to Probability theory and Random Processes (Aug. 2019)
+- Probability theory (Graduate level; Aug. 2018 & 2019)
+- Puzzles, Information and Secrecy (Jan. 2020)
+- Probability theory and Random Processes (Graduate level; Aug. 2020)
+- Mathematics for Data Science (Aug. 2020)
+- Information Theory (Jan. 2021)
+- Mathematics for Data Science (Aug. 2021)
+- Linear algebra and its Applications (Jan. 2022; ongoing)
+- Introduction to Communications + Lab (Jan. 2022; ongoing)
 
-- Information theory and coding
+Some useful resources
 
-**Fall 2015**
-
-- Random Processes
-
-**Spring 2015**
-
-- Simulation and modeling of data networks 
-- Advanced mathematics (Graduate level)
-
-**Fall 2016**
-
-- Random processes
-
-- Wireless communications 
-
-- Information theory and coding 
-
-- Digital Communication
-
-  
-
-**January 2018 @ IIT Dharwad**
-
-  - Introduction to Electrical Systems and Electronics (First year undergrad)
-    
-    - Course information ([EE101_coursestruct)](/academicpages.github.io/files/ee101_coursestruct.pdf)
-    
-    - Hw 0 is online ([EE101_Hw0](/academicpages.github.io/files/ee101_hw01.pdf))
-    
-    - Hw 1 is online ([HW1](/academicpages.github.io/files/hw1.pdf))
-    
-    - Hw 2-6 are uploaded to MOODLE!
-    
-
-**Teaching Assistance at IISc**
-
-- Matrix theory (Fall 2011 and 2012)
-
-- Estimation and detection (Spring 2011 and 2012)     
-
-  
-
-**Links & Resources**
-
-- Matrix theory - [e212_matrixtheory_oct8](/academicpages.github.io/files/e212_matrixtheory_oct8.pdf)
-- Cayley Hamilton  - [cayley_hamilton](/academicpages.github.io/files/cayley_hamilton.pdf)
-- Compressive sensing -[compressive_sensing](/academicpages.github.io/files/compressive_sensing.pdf)
-- [Other useful results](/academicpages.github.io/files/useful_results.pdf) 
+- My notes/book on Linear Algebra **[e212_matrixtheory_oct8](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/e212_matrixtheory_oct8.pdf)**
+- Cayley Hamilton [cayley_hamilton](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/cayley_hamilton.pdf)
+- Compressive sensing [compressive_sensing](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/compressive_sensing.pdf)
+- Other useful results **[useful_results](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/useful_results.pdf)**
