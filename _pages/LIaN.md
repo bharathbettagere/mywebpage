@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /LIaN/
 title: ""
 excerpt: "LIaN"
 author_profile: true
