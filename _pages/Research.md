@@ -8,7 +8,7 @@ author_profile: true
 
 # Research
 
-B. N. Bharath mainly works in the area of signal processing, wireless communications, machine learning and wireless networks. Recently, he has looked into the problems related to caching in cellular from a learning theory perspective. In particular, he has investigated the impact of estimating the popularity profile (varying and static) on the “offloading loss” which captures the amount of Backhaul usage. Other topics include secure communication in dynamic networks (percolation theory), distributed stochastic optimization, and optimizing cellular network for better spectral efficiency. Currently, he is looking into problems related to Federated Learning (FL). Please look at his [Publications](/academicpages.github.io/publications/) for more details.
+B. N. Bharath mainly works in the area of signal processing, wireless communications, machine learning and wireless networks. Recently, he has looked into the problems related to caching in cellular from a learning theory perspective. In particular, he has investigated the impact of estimating the popularity profile (varying and static) on the “offloading loss” which captures the amount of Backhaul usage. Other topics include secure communication in dynamic networks (percolation theory), distributed stochastic optimization, and optimizing cellular network for better spectral efficiency. Currently, he is looking into problems related to Federated Learning (FL). Please look at his [Publications](/mywebpage/publications/) for more details.
 
 **Present and past collaborators**
 
