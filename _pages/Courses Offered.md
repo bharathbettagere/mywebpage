@@ -33,7 +33,7 @@ author_profile: true
 
 Some useful resources
 
-- My notes/book on Linear Algebra **[e212_matrixtheory_oct8](/academicpages.github.io/files/e212_matrixtheory_oct8.pdf)**
-- Cayley Hamilton [cayley_hamilton](/academicpages.github.io/files/cayley_hamilton.pdf)
-- Compressive sensing [compressive_sensing](/academicpages.github.io/files/compressive_sensing.pdf)
-- Other useful results **[useful_results](/academicpages.github.io/files/useful_results.pdf)**
+- My notes/book on Linear Algebra **[e212_matrixtheory_oct8](/mywebpage/files/e212_matrixtheory_oct8.pdf)**
+- Cayley Hamilton [cayley_hamilton](/mywebpage/files/cayley_hamilton.pdf)
+- Compressive sensing [compressive_sensing](/mywebpage/files/compressive_sensing.pdf)
+- Other useful results **[useful_results](/mywebpage/files/useful_results.pdf)**
