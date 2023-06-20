@@ -18,7 +18,7 @@ My group consists of people from diverse background such as mathematics, compute
 - Shruti (PhD student)
 - Sumit Sahu (PhD student)
 - Akash Murthy (Co-founder of Euprime, collaborator and research project member)
-- Amit Malaghan (JRF)
+- Amit Malaghan (Junior Research Fellow)
 
 ## News
 
