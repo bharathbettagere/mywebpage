@@ -21,5 +21,7 @@ author_profile: true
 6. **K. G. Nagananda** 
 7. **Tharm Ratnarajah, Univ. of Edinburgh**
 8. **Vimal Bhatia, IIT Indore**
-9. **Krishnendu, Research Associate at KAUST**
+9. **Ruma Ghosh, IIT Dharwad**
+10. **Rajshekhar V. Bhat, IIT Dharwad**
+11. **Krishnendu, Research Associate at KAUST**
    
