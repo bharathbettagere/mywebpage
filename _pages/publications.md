@@ -9,7 +9,7 @@ author_profile: true
 
 1. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, accepted at IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
 
-2. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications (NCC) 2022.
+2. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
 
 3. Bhavya Joshi, Rajshekhar Bhat, **B. N. Bharath** and Rahul Vaze, “Minimization of Age of Incorrect Estimates of Autoregressive Markov Processes”, Proc. **IEEE WiOPT**, Philadelphia, USA, 2021.
 
@@ -19,7 +19,7 @@ author_profile: true
 
 6. Yash Doshi, **B. N. Bharath**, Navneet Garg, Vimal Bhatia, and Tharmalingam Ratnarajah, Learning Distributed Coded Caching Strategy in Cellular Network, accepted at Vehicular Technology Conference **(VTC)**, Helsinki, 2021.
 
-7. Navneet Garg, **B. N. Bharath**, Vimal Bhatia, Mathini Sellathurai and Tharm Ratnarajah, Online Learning Models for Content Popularity Prediction in Wireless Edge Caching, 53rd **Asilomar Conference on Signals, Systems, and Computers**, 2019.
+7. Navneet Garg, **B. N. Bharath**, Vimal Bhatia, Mathini Sellathurai and Tharm Ratnarajah, Online Learning Models for Content Popularity Prediction in Wireless Edge Caching, 53rd **Asilomar** Conference on Signals, Systems, and Computers, 2019.
 
 8. **B. N. Bharath**, K. G. Nagananda, Deniz Gunduz, and H. Vincent Poor, Learning-Based Content Caching with Time-Varying Popularity Profiles, Proc. IEEE Global Communications Conference **(Globecom)**, Singapore, Dec. 2017, pages 1-6.
 
