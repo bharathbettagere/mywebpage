@@ -28,8 +28,9 @@ author_profile: true
 - Mathematics for Data Science (Aug. 2020)
 - Information Theory (Jan. 2021)
 - Mathematics for Data Science (Aug. 2021)
-- Linear algebra and its Applications (Jan. 2022; ongoing)
-- Introduction to Communications + Lab (Jan. 2022; ongoing)
+- Linear algebra and its Applications (Jan. 2022)
+- Introduction to Communications + Lab (Jan. 2022)
+- Introduction to programming - II (Python) (first year common course)
 
 Some useful resources
 
