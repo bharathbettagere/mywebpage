@@ -6,10 +6,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /Research/
+  - title: "Miscellaneous"
+    url: /Miscellaneous/
 
-  - title: "Learning, Inference and Networks (LIaN) Lab"
+  - title: "LIaN Lab"
     url: /LIaN/
 
   - title: "Courses Offered"
