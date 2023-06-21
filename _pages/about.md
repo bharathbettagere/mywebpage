@@ -18,15 +18,10 @@ In addition to the above, I am actively collaborating with Euprime Pvt. Ltd. to 
 
 #### Research
 
-![img](https://bnbharath.files.wordpress.com/2020/06/d6f91c80-3e37-43de-be62-c691a26cbb1b.jpeg?w=750)
-
-My research revolves around using tools from machine learning/statistics, signal processing, distributed optimization for application in wireless communications/networks and core areas of ML. Recently, I have been looking at problems in Federated Learning; see my publications for details.
+My research revolves around machine learning/statistics, signal processing, distributed optimization, federated learning and wireless communication/networks.
 
 #### Learning, Inference & Networks (LIaN) Lab
 
-![img](https://bnbharath.files.wordpress.com/2020/06/img_20200618_004028.jpg?w=750)
-
-The main focus of the LIAN lab is to use learning and inference theories to solve problems related to wireless networks. The group also focuses on solving some challenging problems in the core areas of machine learning (both theory and practice).
 
 #### NewZ
 
