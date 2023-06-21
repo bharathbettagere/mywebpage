@@ -11,7 +11,7 @@ author_profile: true
 
 **Learning, Inference and Networks (LIaN) Lab**
 
-The main focus of the LIAN lab is to use learning and inference theories to solve problems related to networks. We focus on using various tools such as probability theory, distributed stochastic optimization, machine learning, information theory and signal processing to solve some of the exiting real world problems, especially arising in the field of wireless communications/networks. See the publication list to get a view of the kind of problems that we address. Currently, the lab members are working in the area of caching in cellular network and federated learning with communication and privacy constraints.
+The main focus of the LIAN lab is to use learning and inference theories to solve problems related to networks. We focus on using various tools such as probability theory, distributed stochastic optimization, machine learning, information theory and signal processing to solve some of the exiting real world problems. Currently, the group is focusing on two broad problem areas, namely caching and distributed (federated) learning. We use online learning to solve problems related to caching. We look at some of the exciting problems in caching such as caching of files, caching of products (such as warehouses), caching of services etc. A part of my group is looking at the theoretical underpinnings of distributed learning. In particular, we answers questions related to generalization, convergence of algorithms etc. See the publication list to get a view of the kind of problems that we address. Currently, the lab members are working in the area of caching in cellular network and federated learning with communication and privacy constraints.
 
 My group consists of people from diverse background such as mathematics, computer science and electrical engineering. The following are the research members of my group:
 
@@ -23,8 +23,7 @@ My group consists of people from diverse background such as mathematics, compute
 ## News
 
 - Our paper (with undergraduate student Shashank P) got accepted at ICASSP 2023!
-- Our paper (with Sawan and Shruti) on Federated Learning got accepted at NCC 2022.
-- **Sawan** successfully **defended** his MS thesis! Congratulations!!
+
 
 
 
