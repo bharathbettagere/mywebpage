@@ -1,7 +1,7 @@
 ---
-permalink: /Research/
+permalink: /Miscellaneous/
 title: ""
-excerpt: "Research"
+excerpt: "Miscellaneous"
 author_profile: true
 
 ---
