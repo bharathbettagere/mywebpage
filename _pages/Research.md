@@ -11,7 +11,7 @@ author_profile: true
 **Donate to the Electrical engineering department research (student). See http://iitdh.ac.in/electrical.php for more details.**
 
 
-**Present and past collaborators**
+# Present and past collaborators
 
 1. **Chandra R. Murthy, IISc (Ph. D advisor)**
 2. **Ranjitha Prasad, IIIT Delhi**
