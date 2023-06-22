@@ -18,8 +18,9 @@ My group consists of bright research students from diverse background such as ma
 
 - Shruti (PhD student)
 - Sumit Sahu (PhD student)
-- Akash Murthy (Co-founder of Euprime, collaborator and research project member)
 - Amit Malaghan (Junior Research Fellow)
+- Akash Murthy (Co-founder of Euprime, collaborator and research project member)
+
 
 ## News
 
