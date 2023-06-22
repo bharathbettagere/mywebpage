@@ -8,7 +8,7 @@ author_profile: true
 
 # Other Information 
 
-**EECE Department has MS, M. Tech and PhD programmes running. Please apply!
+EECE Department has MS, M. Tech and PhD programmes running. Please apply!
 
 
 # Present and past collaborators
