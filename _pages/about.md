@@ -16,9 +16,9 @@ I am interested in hosting **undergraduates for internships**. I have a few succ
 
 In addition to the above, I am actively collaborating with Euprime Pvt. Ltd. to convert my research into an impactful one! Akash Murthy (Co-founder, collaborator and research project member) is actively working with me on solving real world impactful problems related to federated learning.
 
-#### Research
+#### Research Interests
 
-My research revolves around machine learning/statistics, signal processing, distributed optimization, federated learning and wireless communication/networks.
+Machine learning, statistics, signal processing, online learning, distributed optimization, federated learning and wireless communication/networks.
 
 #### Learning, Inference & Networks (LIaN) Lab
 
@@ -31,6 +31,5 @@ My research revolves around machine learning/statistics, signal processing, dist
 
 **Donate to the Electrical engineering department research (student). See http://iitdh.ac.in/electrical.php for more details.**
 
-Looking for a bright student (B. Tech in ECE (preferable) with GATE qualification for my project on caching. If you are interested, let us talk. Please drop in an email to bharathbnATiitdh.ac.in).
 
 Looking for a bright student with **B. Tech in computer science or ECE or equivalent** having good programming/developing skills. This requirement is for a collaboration work with Euprime Pvt. Ltd.
