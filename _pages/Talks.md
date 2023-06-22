@@ -1,5 +1,5 @@
 ---
-permalink: /Talks
+permalink: /Talks/
 title: "Talks"
 excerpt: "Talks"
 author_profile: true
