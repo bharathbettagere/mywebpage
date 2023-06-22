@@ -16,14 +16,12 @@ I am interested in hosting **undergraduates for internships**. I have a few succ
 
 In addition to the above, I am actively collaborating with Euprime Pvt. Ltd. to convert my research into an impactful one! Akash Murthy (Co-founder, collaborator and research project member) is actively working with me on solving real world impactful problems related to federated learning.
 
-#### Research Interests
+# Research Interests
 
 Machine learning, statistics, signal processing, online learning, distributed optimization, federated learning and wireless communication/networks.
 
-#### Learning, Inference & Networks (LIaN) Lab
 
-
-#### NewZ
+## NewZ
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
