@@ -7,7 +7,7 @@ author_profile: true
 
 # Conference
 
-1. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, accepted at IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
+1. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
 
 2. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
 
