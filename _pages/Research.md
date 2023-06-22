@@ -8,7 +8,7 @@ author_profile: true
 
 # Other Information 
 
-**Donate to the Electrical engineering department research (student). See http://iitdh.ac.in/electrical.php for more details.**
+**EECE Department has MS, M. Tech and PhD programmes running. Please apply!
 
 
 # Present and past collaborators
