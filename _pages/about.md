@@ -29,7 +29,7 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 **Amit Malaghan joined our group as JRF. Welcome Amit!**
 
-**Our paper (with Shashank, undergrad at IIT Dharwad) was presented in ICASSP 2023 in Greece. Congratulations Shashank!**
+**Our paper (with Shashank, undergrad at IIT Dharwad) was presented at ICASSP 2023 held in Greece. Congratulations Shashank!**
 
 
 
