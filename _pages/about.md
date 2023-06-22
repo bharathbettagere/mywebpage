@@ -27,7 +27,7 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
-
+**Amit Malaghan joined our group as JRF. Welcome Amit!
 
 **Donate to the Electrical engineering department research (student). See http://iitdh.ac.in/electrical.php for more details.**
 
