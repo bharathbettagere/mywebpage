@@ -26,10 +26,12 @@ Machine learning, statistics, signal processing, online learning, distributed op
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
 **Will be lecturing at AISS at IIIT Delhi in July. More on this soon.**
+
 **Amit Malaghan joined our group as JRF. Welcome Amit!**
+
 **Our paper (with Shashank, undergrad at IIT Dharwad) was presented in ICASSP 2023 in Greece. Congratulations Shashank!**
 
-**Donate to the Electrical engineering department research (student). See http://iitdh.ac.in/electrical.php for more details.**
+
 
 
 Looking for a bright student with **B. Tech in computer science or ECE or equivalent** having good programming/developing skills. This requirement is for a collaboration work with Euprime Pvt. Ltd.
