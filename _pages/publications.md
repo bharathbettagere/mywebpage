@@ -7,35 +7,37 @@ author_profile: true
 
 # Conference
 
-1. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
+1. Shruti M., Prashant Khanduri and **B. N. Bharath**, "FedAvg for Minimizing Polyak-Lojasiewicz Objectives: The Interpolation Regime", accepted at Asilomar 2023.
+  
+3. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
 
-2. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
+4. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
 
-3. Bhavya Joshi, Rajshekhar Bhat, **B. N. Bharath** and Rahul Vaze, “Minimization of Age of Incorrect Estimates of Autoregressive Markov Processes”, Proc. **IEEE WiOPT**, Philadelphia, USA, 2021.
+5. Bhavya Joshi, Rajshekhar Bhat, **B. N. Bharath** and Rahul Vaze, “Minimization of Age of Incorrect Estimates of Autoregressive Markov Processes”, Proc. **IEEE WiOPT**, Philadelphia, USA, 2021.
 
-4. Krishnendu K., **B. N. Bharath** and Vimal Bhatia, ” Joint Edge Content Cache Placement and Recommendation: Bayesian Approach,” Vehicular Technology Conference **(VTC)**, Helsinki, 2021.
+6. Krishnendu K., **B. N. Bharath** and Vimal Bhatia, ” Joint Edge Content Cache Placement and Recommendation: Bayesian Approach,” Vehicular Technology Conference **(VTC)**, Helsinki, 2021.
 
-5. Sai Anuroop Kesanapalli and **B. N. Bharath**, “Federated Algorithm With Bayesian Approach: OMNI-FEDGE,” accepted at IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Toronto, Ontario, Canada, June 2021.
+7. Sai Anuroop Kesanapalli and **B. N. Bharath**, “Federated Algorithm With Bayesian Approach: OMNI-FEDGE,” accepted at IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Toronto, Ontario, Canada, June 2021.
 
-6. Yash Doshi, **B. N. Bharath**, Navneet Garg, Vimal Bhatia, and Tharmalingam Ratnarajah, Learning Distributed Coded Caching Strategy in Cellular Network, accepted at Vehicular Technology Conference **(VTC)**, Helsinki, 2021.
+8. Yash Doshi, **B. N. Bharath**, Navneet Garg, Vimal Bhatia, and Tharmalingam Ratnarajah, Learning Distributed Coded Caching Strategy in Cellular Network, accepted at Vehicular Technology Conference **(VTC)**, Helsinki, 2021.
 
-7. Navneet Garg, **B. N. Bharath**, Vimal Bhatia, Mathini Sellathurai and Tharm Ratnarajah, Online Learning Models for Content Popularity Prediction in Wireless Edge Caching, 53rd **Asilomar** Conference on Signals, Systems, and Computers, 2019.
+9. Navneet Garg, **B. N. Bharath**, Vimal Bhatia, Mathini Sellathurai and Tharm Ratnarajah, Online Learning Models for Content Popularity Prediction in Wireless Edge Caching, 53rd **Asilomar** Conference on Signals, Systems, and Computers, 2019.
 
-8. **B. N. Bharath**, K. G. Nagananda, Deniz Gunduz, and H. Vincent Poor, Learning-Based Content Caching with Time-Varying Popularity Profiles, Proc. IEEE Global Communications Conference **(Globecom)**, Singapore, Dec. 2017, pages 1-6.
+10. **B. N. Bharath**, K. G. Nagananda, Deniz Gunduz, and H. Vincent Poor, Learning-Based Content Caching with Time-Varying Popularity Profiles, Proc. IEEE Global Communications Conference **(Globecom)**, Singapore, Dec. 2017, pages 1-6.
 
-9. **B. N. Bharath** and Vaishali P., Time complexity analysis of distributed stochastic optimization in a non-stationary environment. Proc. **IEEE WiOPT**-2017, Paris, France, pages: 1-8.
+11. **B. N. Bharath** and Vaishali P., Time complexity analysis of distributed stochastic optimization in a non-stationary environment. Proc. **IEEE WiOPT**-2017, Paris, France, pages: 1-8.
 
-10. **B. N. Bharath** and K. G. Nagananda, Caching in Small Cell Networks: A Learning Theoretic Approach, Proc. IEEE Global Communications Conference **(Globecom)**, Sandiego, California, USA, Dec. 2015
+12. **B. N. Bharath** and K. G. Nagananda, Caching in Small Cell Networks: A Learning Theoretic Approach, Proc. IEEE Global Communications Conference **(Globecom)**, Sandiego, California, USA, Dec. 2015
 
-11. P. Khanduri, **B. N. Bharath**, and C. R. Murthy, Coverage Analysis and Training Optimization for Uplink Cellular Networks with Practical Channel Estimation, Proc. IEEE Global Communications Conference **(Globecom)**, Austin, TX, USA, Dec. 2014.
+13. P. Khanduri, **B. N. Bharath**, and C. R. Murthy, Coverage Analysis and Training Optimization for Uplink Cellular Networks with Practical Channel Estimation, Proc. IEEE Global Communications Conference **(Globecom)**, Austin, TX, USA, Dec. 2014.
 
-12. **B. N. Bharath** and C. R. Murthy, Channel Estimation at the Transmitter in a Reciprocal MIMO Spatial Multiplexing System, Proc. National Conference on Communications **(NCC)**, Kharagpur, India, Feb. 2012.
+14. **B. N. Bharath** and C. R. Murthy, Channel Estimation at the Transmitter in a Reciprocal MIMO Spatial Multiplexing System, Proc. National Conference on Communications **(NCC)**, Kharagpur, India, Feb. 2012.
 
-13. R. Prasad, **B. N. Bharath**, and C. Murthy, Joint Data Detection and Dominant Singular Mode Estimation in Time-Varying Reciprocal MIMO Systems, Proc. IEEE International Conference on Speech, Acoustics and Signal Processing **(ICASSP)**, Prague, Czech Republic, May 2011.
+15. R. Prasad, **B. N. Bharath**, and C. Murthy, Joint Data Detection and Dominant Singular Mode Estimation in Time-Varying Reciprocal MIMO Systems, Proc. IEEE International Conference on Speech, Acoustics and Signal Processing **(ICASSP)**, Prague, Czech Republic, May 2011.
 
-14. **B. N. Bharath** and C. R. Murthy, On the Improvement of Diversity-Multiplexing Gain Tradeoff in a Training Based TDD-SIMO System, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Dallas, TX, USA, Mar. 2010.
+16. **B. N. Bharath** and C. R. Murthy, On the Improvement of Diversity-Multiplexing Gain Tradeoff in a Training Based TDD-SIMO System, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Dallas, TX, USA, Mar. 2010.
 
-15. **B. N. Bharath** and C. R. Murthy, Reverse channel training for reciprocal MIMO systems with spatial multiplexing, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Taiwan, Taipei (Republic of China), Apr. 2009.
+17. **B. N. Bharath** and C. R. Murthy, Reverse channel training for reciprocal MIMO systems with spatial multiplexing, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Taiwan, Taipei (Republic of China), Apr. 2009.
 
 # Journal
 
