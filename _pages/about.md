@@ -25,13 +25,15 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
-**Will be lecturing at AISS at IIIT Delhi in July. More on this soon.**
+**A paper authored by my Ph.D. student Shruti M. got accepted at Asilomar 2023! Congratulations Shruti!**
+
+**Attended AISS at IIIT Delhi in July 2023, and enjoyed discussing federated learning with experts. Gave a series of three tutorial-style lectures.**
 
 **Amit Malaghan joined our group as JRF. Welcome Amit!**
 
-**Our paper (with Shashank, undergrad at IIT Dharwad) was presented at ICASSP 2023 held in Greece. Congratulations Shashank!**
 
 
 
 
-Looking for a bright student with **B. Tech in computer science or ECE or equivalent** having good programming/developing skills. This requirement is for a collaboration work with Euprime Pvt. Ltd.
+
+I am looking for a bright student with **B. Tech in computer science or ECE or equivalent** having good programming/developing skills. This requirement is for collaboration work with Euprime Pvt. Ltd.
