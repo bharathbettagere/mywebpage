@@ -20,17 +20,18 @@ author_profile: true
 - Wireless communications (Aug. 2016)
 - Digital Communication (Jan. 2016)
 
-- Introduction to Electrical Systems and Electronics (First year undergrad) (Jan. 2018)
-- Introduction to Probability theory and Random Processes (Aug. 2019)
+- Introduction to Electrical Systems and Electronics (First-year undergrad) (Jan. 2018)
+- Introduction to Probability Theory and Random Processes (Aug. 2019)
 - Probability theory (Graduate level; Aug. 2018 & 2019)
-- Puzzles, Information and Secrecy (Jan. 2020)
+- Puzzles, Information, and Secrecy (Jan. 2020)
 - Probability theory and Random Processes (Graduate level; Aug. 2020)
 - Mathematics for Data Science (Aug. 2020)
 - Information Theory (Jan. 2021)
 - Mathematics for Data Science (Aug. 2021)
-- Linear algebra and its Applications (Jan. 2022)
+- Linear Algebra and its Applications (Jan. 2022)
 - Introduction to Communications + Lab (Jan. 2022)
-- Introduction to programming - II (Python) (first year common course)
+- Introduction to Programming - II (Python) (first-year common course)
+- Introduction to Probability (August 2023, second year course)
 
 Some useful resources
 
