@@ -40,4 +40,4 @@ Alumni list
 
 
 
-I am also a part of Euprime Pvt. Ltd., where some of my research is used in the real-world applications.
+I am also a part of Euprime Pvt. Ltd., where some of my research is used in real-world applications.
