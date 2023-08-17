@@ -23,7 +23,7 @@ My group consists of bright research students from diverse backgrounds such as m
 
 
 ## News
-
+- Congratulations to Shruti! Her paper at Asilomar 2023 got shortlisted for the best student paper award
 - My former undergraduate project student Anuroop got the prestigious **J. R. Tata Endowment Scholarship**. Congratulations Anuroop!
 - Our Asilomar 2023 paper with Shruti M got accepted! Congratulations Shruti!
 - Submitted a paper to IEEE Transactions on signal processing (along with Shruti and Prashant)
