@@ -7,7 +7,7 @@ author_profile: true
 
 # Conference
 
-1. Shruti M., Prashant Khanduri and **B. N. Bharath**, "FedAvg for Minimizing Polyak-Lojasiewicz Objectives: The Interpolation Regime", accepted at Asilomar 2023.
+1. Shruti M., Prashant Khanduri and **B. N. Bharath**, "FedAvg for Minimizing Polyak-Lojasiewicz Objectives: The Interpolation Regime", accepted at **Asilomar** Conference on Signals, Systems, and Computers, 2023. **[Shortlisted for the best student paper award!]
   
 3. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
 
