@@ -25,6 +25,8 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
+**Congratulations to my Ph.D. student, Shruti! Her work in Asilomar has been shortlisted for the best student paper award!** 
+
 **My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
 
 **A paper authored by my Ph.D. student Shruti M. got accepted at Asilomar 2023! Congratulations Shruti!**
