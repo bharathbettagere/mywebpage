@@ -10,7 +10,7 @@ redirect_from:
 
 # About 
 
-**Congratulations to my PhD student Shruti! Her Asilomar 2023 paper on Federated learning got shortlisted for the student best paper award**
+**Congratulations to my PhD student Shruti! Her Asilomar 2023 paper on Federated learning got shortlisted for the student best paper award contest**
 
 I am an assistant professor in the Department of electrical engineering at IIT Dharwad. My interest is to conduct fundamental research in the areas of inference and learning. Some of my work includes caching in cellular networks, federated learning, bilevel optimization, distributed stochastic optimization with applications to sensor networks, and signal processing for communication problems. If you are interested in any of the above, please drop in an email.
 
@@ -27,7 +27,7 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
-**Congratulations to my Ph.D. student, Shruti! Her work in Asilomar has been shortlisted for the best student paper award!** 
+**Congratulations to my Ph.D. student, Shruti! Her work in Asilomar has been shortlisted for the best student paper award contest!** 
 
 **My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
 
