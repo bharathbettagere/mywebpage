@@ -8,6 +8,14 @@ author_profile: true
   #- /LIaN.html
 ---
 
+# August 2023-Sep. 2023 (Introduction to Probability)
+
+Jointly with Prof. Rahul Pandya.
+
+# Oct. 2023-Nov. 2023 (Data Analysis)
+
+Link to the notes (crude): https://hackmd.io/@bharathbn/ryNX5Zygp
+
 # Courses offered
 
 - Information theory and coding (Jan. 2014 & 2016), Random Processes (Jan. 2015), Advanced Mathematics (Graduate level) (Jan. 2015), Simulation and modeling of data networks (Aug. 2015), Random processes (Aug. 2016), Wireless communications (Aug. 2016), Digital Communication (Jan. 2016),- Introduction to Electrical Systems and Electronics (First-year undergrad) (Jan. 2018), Introduction to Probability Theory and Random Processes (Aug. 2019), Probability theory (Graduate level; Aug. 2018 & 2019), Puzzles, Information, and Secrecy (Jan. 2020), Probability theory and Random Processes (Graduate level; Aug. 2020), Mathematics for Data Science (Aug. 2020), Information Theory (Jan. 2021), Mathematics for Data Science (Aug. 2021), Linear Algebra and its Applications (Jan. 2022), Introduction to Communications + Lab (Jan. 2022), Introduction to Programming - II (Python) (first-year common course), Introduction to Probability (August 2023, second-year course)
