@@ -16,9 +16,9 @@ LIaN stands for Learning, Inference and Networks. As the name indicates, the mai
 
 My group comprises bright research students from diverse backgrounds such as mathematics, computer science, and electrical engineering. The following are the research members of my group:
 
-- Shruti (Ph.D. student)
-- Sumit Sah (Ph.D. student)
-- Amit Malaghan (Junior Research Fellow)
+- Shruti (Ph.D. student): Distributed/Federated Learning
+- Sumit Sah (Ph.D. student): Distributed Learning (Generalization and convergence)
+- Amit Malaghan (Junior Research Fellow): Caching-implementation on SDRs
 - Akash Murthy (Co-founder of Euprime, collaborator, and research project member)
 
 
