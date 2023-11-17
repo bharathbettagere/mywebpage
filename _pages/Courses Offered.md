@@ -14,7 +14,7 @@ Jointly with Prof. Rahul Pandya.
 
 # Oct. 2023-Nov. 2023 (Data Analysis)
 
-Link to the notes (crude): https://hackmd.io/@bharathbn/ryNX5Zygp
+Link to the notes: [Rough notes](https://hackmd.io/@bharathbn/ryNX5Zygp)
 
 # Courses offered
 
