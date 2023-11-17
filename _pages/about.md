@@ -10,11 +10,9 @@ redirect_from:
 
 # About 
 
-**Congratulations to my Ph.D. student Shruti! Her Asilomar 2023 paper on Federated Learning got shortlisted for the student best paper award contest.**
+I am an assistant professor in the Department of electrical engineering at IIT Dharwad. I am interested in conducting fundamental research in inference and learning. Some of my work includes caching in cellular networks, federated learning, bilevel optimization, distributed stochastic optimization with applications to sensor networks, and signal processing for communication problems. If you are interested in any of the above, please drop me an email.
 
-I am an assistant professor in the Department of electrical engineering at IIT Dharwad. My interest is to conduct fundamental research in the areas of inference and learning. Some of my work includes caching in cellular networks, federated learning, bilevel optimization, distributed stochastic optimization with applications to sensor networks, and signal processing for communication problems. If you are interested in any of the above, please drop in an email.
-
-I am interested in hosting **undergraduates for internships**. I have a few success stories in terms of publishing serious research papers with undergraduate students. If you are an undergraduate student with a strong inclination towards mathematics and would like to work with me, please drop in an email describing your interest and a short CV to **bharathbn AT iitdh DOT ac DOT in.** 
+I am interested in hosting **undergraduates for internships**. I have a few success stories regarding publishing serious research papers with undergraduate students. If you are an undergraduate student with a strong inclination towards mathematics and would like to work with me, please drop in an email describing your interest and a short CV to **bharathbn AT iitdh DOT ac DOT in.** 
 
 In addition to the above, I am actively collaborating with Euprime Pvt. Ltd. to convert my research into an impactful one! Akash Murthy (Co-founder, collaborator, and research project member) is actively working with me on solving real-world impactful problems related to federated learning.
 
@@ -27,7 +25,7 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
-**Congratulations to my Ph.D. student, Shruti! Her work in Asilomar has been shortlisted for the best student paper award contest!** 
+**Shruti's: Best Student Paper award finalist at Asilomar 2023!** 
 
 **My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
 
