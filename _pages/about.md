@@ -23,13 +23,13 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
+Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
+
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
 **Shruti (PhD student): Best Student Paper award finalist at Asilomar 2023!** 
 
 **My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
-
-**A paper authored by my Ph.D. student Shruti M. got accepted at Asilomar 2023! Congratulations Shruti!**
 
 **Attended AISS at IIIT Delhi in July 2023, and enjoyed discussing federated learning with experts. Gave a series of three tutorial-style lectures.**
 
