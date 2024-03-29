@@ -22,6 +22,8 @@ Link to the notes: [Rough notes](https://hackmd.io/@bharathbn/ryNX5Zygp)
 
 Some useful resources
 
+- My notes on Data Analysis [statistics and application](https://hackmd.io/@bharathbn/ryNX5Zygp)
+- My notes on Pattern Recognition and Machine Learningn [SVM, Kernel methods etc.](https://hackmd.io/@bharathbn/Sy56lhMRT)
 - My notes/book on Linear Algebra **[e212_matrixtheory_oct8](/mywebpage/files/e212_matrixtheory_oct8.pdf)**
 - Cayley Hamilton [cayley_hamilton](/mywebpage/files/cayley_hamilton.pdf)
 - Compressive sensing [compressive_sensing](/mywebpage/files/compressive_sensing.pdf)
