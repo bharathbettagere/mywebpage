@@ -68,7 +68,7 @@ author_profile: true
 Research work that did not find the light of day:-(
 
     
-1. Mahara S.S., Shruti M., **Bharath B.N., Akash Murthy, "Multi-Task Federated Edge Learning (MTFeeL) With SignSGD".
+1. Mahara S.S., Shruti M., **Bharath B.N.**, Akash Murthy, "Multi-Task Federated Edge Learning (MTFeeL) With SignSGD".
   
 2. **B. N. Bharath** and K. G. Nagananda, “Secure Communication in Dynamic Wireless Ad hoc Networks,” https://arxiv.or/pdf/1904.10856.pdf, 2019.
 
