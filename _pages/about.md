@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Openings:
+
+- Two **paid** internship positions with a possible accomodation is available in my group! Please drop in an email with your short CV attached. The topics will be related to Federated learning, machine learning, large language models, online algorithms/learning for caching problems etc.
+- Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions. 
 
 # About 
 
