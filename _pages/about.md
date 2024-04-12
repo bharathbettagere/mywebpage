@@ -40,7 +40,7 @@ Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
 **Attended AISS at IIIT Delhi in July 2023, and enjoyed discussing federated learning with experts. Gave a series of three tutorial-style lectures.**
 
-**Amit Malaghan joined our group as JRF. Welcome Amit!**
+
 
 
 
