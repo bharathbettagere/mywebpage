@@ -28,6 +28,8 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
+Will be delivering a talk at IIT Bombay on May 24th, 2024.
+
 Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
