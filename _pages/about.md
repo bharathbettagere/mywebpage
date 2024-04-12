@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Openings:
 
-- Admissions for MS/PhD and M. Tech are open at EECE, IIT Dharwad ![img](https://iitdh.ac.in/ms). I have two MS positions open in the area of distributed machine learning and efficient optimization of large language models. 
+- Admissions for MS/PhD and M. Tech are open at EECE, IIT Dharwad ![Link](https://iitdh.ac.in/ms). I have two MS positions open in the area of distributed machine learning and efficient optimization of large language models. 
 - Two **paid** internship positions with a possible accomodation is available in my group! Please drop in an email with your short CV attached. The topics will be related to Federated learning, machine learning, large language models, online algorithms/learning for caching problems etc. **Duration:** May 1st to end of June 2024. 
 - Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions. 
 
