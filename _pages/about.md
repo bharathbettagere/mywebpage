@@ -15,6 +15,8 @@ I am an assistant professor in the Department of electrical engineering at IIT D
 
 I am interested in hosting **undergraduates for internships**. I have a few success stories regarding publishing serious research papers with undergraduate students. If you are an undergraduate student with a strong inclination towards mathematics and would like to work with me, please drop in an email describing your interest and a short CV to **bharathbn AT iitdh DOT ac DOT in.** 
 
+If you have Msc in mathematics or equivalent, and is interested in working with me in theoretical machine learning or optimization theory, please send me an email along with your CV. 
+
 # Research Interests
 
 Machine learning, statistics, signal processing, online learning, distributed optimization, federated learning, and wireless communication/networks.
@@ -35,11 +37,3 @@ Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
 **Attended AISS at IIIT Delhi in July 2023, and enjoyed discussing federated learning with experts. Gave a series of three tutorial-style lectures.**
 
-
-
-
-
-
-
-
-I am looking for a bright student with **B. Tech in computer science or ECE or equivalent** having good programming/developing skills. This requirement is for collaboration work with Euprime Pvt. Ltd.
