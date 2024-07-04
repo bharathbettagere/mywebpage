@@ -11,7 +11,7 @@ author_profile: true
 B. N. Bharath 
 
 Assistant professor, 
-Academic Block 1, 3 rd floor, Room no. 326,\\
+Academic Block 1, 3 rd floor, Room no. 326,
 Department of Electrical Electronics and Communications Engineering (EECE),
 Permanent Campus,
 Chikkamalligawad, Dharwad,
