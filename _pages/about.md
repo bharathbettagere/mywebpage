@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 # About 
 
 I am an assistant professor in the Department of electrical engineering at IIT Dharwad. I am interested in conducting fundamental research in inference and machine learning. Some of my work includes caching in cellular networks, federated learning, bilevel optimization, online optimization/learning, distributed stochastic optimization with applications to sensor networks, and signal processing for communication problems. If you are interested in any of the above, please drop me an email (**bharathbn AT iitdh DOT ac DOT in.**).
