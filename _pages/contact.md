@@ -11,9 +11,11 @@ author_profile: true
 B. N. Bharath 
 
 Assistant professor, 
-Department of Electrical Electronics and Communications Engineering (EECE)
-IIT Dharwad,WALMI Campus, PB Road, 
-near High Court, Karnataka 580011
+Academic Block 1, 3 rd floor, Room no. 326,
+Department of Electrical Electronics and Communications Engineering (EECE),
+Permanent Campus,
+Chikkamalligawad, Dharwad,
+Karnataka - 580007
 
 Email id: bharathbn AT iitdh DOT ac DOT in.
 
