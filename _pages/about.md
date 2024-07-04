@@ -6,20 +6,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-# Openings:
-
-- Admissions for MS/PhD and M. Tech are open at EECE, IIT Dharwad https://iitdh.ac.in/ms. I have two MS positions open in the area of distributed machine learning and efficient optimization of large language models. 
-- Two **paid** internship positions with a possible accomodation is available in my group! Please drop in an email with your short CV attached. The topics will be related to Federated learning, machine learning, large language models, online algorithms/learning for caching problems etc. **Duration:** May 1st to end of June 2024. 
-- Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions. 
 
 # About 
 
-I am an assistant professor in the Department of electrical engineering at IIT Dharwad. I am interested in conducting fundamental research in inference and learning. Some of my work includes caching in cellular networks, federated learning, bilevel optimization, distributed stochastic optimization with applications to sensor networks, and signal processing for communication problems. If you are interested in any of the above, please drop me an email.
+I am an assistant professor in the Department of electrical engineering at IIT Dharwad. I am interested in conducting fundamental research in inference and machine learning. Some of my work includes caching in cellular networks, federated learning, bilevel optimization, online optimization/learning, distributed stochastic optimization with applications to sensor networks, and signal processing for communication problems. If you are interested in any of the above, please drop me an email (**bharathbn AT iitdh DOT ac DOT in.**).
 
 I am interested in hosting **undergraduates for internships**. I have a few success stories regarding publishing serious research papers with undergraduate students. If you are an undergraduate student with a strong inclination towards mathematics and would like to work with me, please drop in an email describing your interest and a short CV to **bharathbn AT iitdh DOT ac DOT in.** 
-
-In addition to the above, I am actively collaborating with Euprime Pvt. Ltd. to convert my research into an impactful one! Akash Murthy (Co-founder, collaborator, and research project member) is actively working with me on solving real-world impactful problems related to federated learning.
 
 # Research Interests
 
@@ -28,7 +20,8 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
-Will be delivering a talk at IIT Bombay on May 24th, 2024.
+Delivered a talk at IIT Bombay on May 24th, 2024. Title: **"Generalization of FedAvg Under Constrained
+Polyak-Lojasiewicz Conditions: A Single Hidden Layer Neural Network (NN) Analysis"**, joint work with Sumit, Shruti and Prashant Khanduri.
 
 Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
