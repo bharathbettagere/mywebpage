@@ -14,7 +14,7 @@ Undergraduate course. Jointly with Prof. Rahul Pandya.
 
 # August 2024-Nov. 2024 (Probability Models and Applications)
 
-Graduate level course. 
+Graduate level course. Link to the [notes](https://hackmd.io/@bharathbn/SJtiTVvFC)
 
 # Courses offered
 
