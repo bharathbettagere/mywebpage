@@ -41,7 +41,7 @@ author_profile: true
 
 # Journal
 
-1. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking (accepted), April $2024$. 
+1. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$, doi: 10.1109/TMLCN.2024.338897. 
 2. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B N Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, accepted at IEEE Transactions on Radar Systems, July 2023.
 
 3. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.
