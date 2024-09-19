@@ -46,7 +46,7 @@ author_profile: true
 
 3. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.
 
-4. S Krishnendu, **B. N. Bharath**, Vimal Bhatia, Jamel Nebhen, Michal Dobrovolny, Tharmalingam Ratnarajah, Wireless Edge Caching and Content Popularity Prediction using Machine Learning, IEEE Consumer Electronics Magazine, March 2022. 
+4. S Krishnendu, **B. N. Bharath**, Vimal Bhatia, Jamel Nebhen, Michal Dobrovolny, Tharmalingam Ratnarajah, Wireless Edge Caching and Content Popularity Prediction using Machine Learning, IEEE Consumer Electronics Magazine, March 2022. **(interdisciplinary work)**
 
 5. S. Krishnendu, **B. N. Bharath**, N. Garg, V. Bhatia and T. Ratnarajah, “Learning to Cache: Federated Caching in a Cellular Network With Correlated Demands,” in *IEEE Transactions on Communications*, vol. 70, no. 3, pp. 1653-1665, March 2022.
 
