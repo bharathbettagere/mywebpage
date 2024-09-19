@@ -44,10 +44,10 @@ author_profile: true
 1. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$, doi: 10.1109/TMLCN.2024.338897. 
 2. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B N Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023, doi: 10.1109/TRS.2023.3296900. 
 
-3. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.
+3. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.  **(interdisciplinary work)**
 
-4. S Krishnendu, **B. N. Bharath**, Vimal Bhatia, Jamel Nebhen, Michal Dobrovolny, Tharmalingam Ratnarajah, Wireless Edge Caching and Content Popularity Prediction using Machine Learning, IEEE Consumer Electronics Magazine, March 2022. **(interdisciplinary work)**
 
+4. S Krishnendu, **B. N. Bharath**, Vimal Bhatia, Jamel Nebhen, Michal Dobrovolny, Tharmalingam Ratnarajah, Wireless Edge Caching and Content Popularity Prediction using Machine Learning, IEEE Consumer Electronics Magazine, March 2022.
 5. S. Krishnendu, **B. N. Bharath**, N. Garg, V. Bhatia and T. Ratnarajah, “Learning to Cache: Federated Caching in a Cellular Network With Correlated Demands,” in *IEEE Transactions on Communications*, vol. 70, no. 3, pp. 1653-1665, March 2022.
 
 6. Navneet Garg, Mathini Sellathurai, Vimal Bhatia, **B. N. Bharath** and Tharm Ratnarajah, “Online Content Popularity Prediction and Learning in Wireless Edge Caching,” in *IEEE Transactions on Communications*, vol. 68, no. 2, pp. 1087-1100, Feb. 2020
