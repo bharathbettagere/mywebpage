@@ -24,14 +24,13 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
-Delivered a talk at IIT Bombay on May 24th, 2024. Title: **"Generalization of FedAvg Under Constrained
-Polyak-Lojasiewicz Conditions: A Single Hidden Layer Neural Network (NN) Analysis"**, joint work with Sumit, Shruti and Prashant Khanduri.
+**Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
+
+Delivered a talk at IIT Bombay on May 24th, 2024. Title: **"Generalization of FedAvg Under Constrained Polyak-Lojasiewicz Conditions: A Single Hidden Layer Neural Network (NN) Analysis"**, joint work with Sumit, Shruti and Prashant Khanduri.
 
 Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
-
-**Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
 
 **Shruti (PhD student): Best Student Paper award finalist at Asilomar 2023!** 
 
