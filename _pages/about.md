@@ -31,7 +31,7 @@ Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
-**Shruti's paper on Federated learning got accepted at TMLR. Congratulations!
+**Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
 
 **Shruti (PhD student): Best Student Paper award finalist at Asilomar 2023!** 
 
