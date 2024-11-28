@@ -8,20 +8,15 @@ author_profile: true
   #- /LIaN.html
 ---
 
-# August 2024-Sep. 2024 (Introduction to Probability)
 
-Undergraduate course. Jointly with Prof. Rahul Pandya.
-
-# August 2024-Nov. 2024 (Probability Models and Applications)
-
-Graduate level course. Link to the [notes](https://hackmd.io/@bharathbn/SJtiTVvFC)
 
 # Courses offered
 
-- Information theory and coding (Jan. 2014 & 2016), Random Processes (Jan. 2015), Advanced Mathematics (Graduate level) (Jan. 2015), Simulation and modeling of data networks (Aug. 2015), Random processes (Aug. 2016), Wireless communications (Aug. 2016), Digital Communication (Jan. 2016),- Introduction to Electrical Systems and Electronics (First-year undergrad) (Jan. 2018), Introduction to Probability Theory and Random Processes (Aug. 2019), Probability theory (Graduate level; Aug. 2018 & 2019), Puzzles, Information, and Secrecy (Jan. 2020), Probability theory and Random Processes (Graduate level; Aug. 2020), Mathematics for Data Science (Aug. 2020), Information Theory (Jan. 2021), Mathematics for Data Science (Aug. 2021), Linear Algebra and its Applications (Jan. 2022), Introduction to Communications + Lab (Jan. 2022), Introduction to Programming - II (Python) (first-year common course), Introduction to Probability (August 2023, second-year course), Data Analysis (Oct. 2024 - Nov. 2024). 
+- Information theory and coding (Jan. 2014 & 2016), Random Processes (Jan. 2015), Advanced Mathematics (Graduate level) (Jan. 2015), Simulation and modeling of data networks (Aug. 2015), Random processes (Aug. 2016), Wireless communications (Aug. 2016), Digital Communication (Jan. 2016),- Introduction to Electrical Systems and Electronics (First-year undergrad) (Jan. 2018), Introduction to Probability Theory and Random Processes (Aug. 2019), Probability theory (Graduate level; Aug. 2018 & 2019), Puzzles, Information, and Secrecy (Jan. 2020), Probability theory and Random Processes (Graduate level; Aug. 2020), Mathematics for Data Science (Aug. 2020), Information Theory (Jan. 2021), Mathematics for Data Science (Aug. 2021), Linear Algebra and its Applications (Jan. 2022), Introduction to Communications + Lab (Jan. 2022), Introduction to Programming - II (Python) (first-year common course), Introduction to Probability (August 2023, second-year course), Data Analysis (Oct. 2024 - Nov. 2024), Probability Models and Application (PMA, 2024). 
 
 Some useful resources
 
+- My crude draft of my notes on [Probability Models and Application](https://hackmd.io/@bharathbn/SJtiTVvFC)
 - My notes on Data Analysis [statistics and application](https://hackmd.io/@bharathbn/ryNX5Zygp)
 - My notes on Pattern Recognition and Machine Learningn [SVM, Kernel methods etc.](https://hackmd.io/@bharathbn/Sy56lhMRT)
 - My notes/book on Linear Algebra **[e212_matrixtheory_oct8](/mywebpage/files/e212_matrixtheory_oct8.pdf)**
