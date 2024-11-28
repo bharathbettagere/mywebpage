@@ -7,7 +7,7 @@ author_profile: true
  # - /LIaN/
   #- /LIaN.html
 ---
-
+# Upcoming course: Information Theory (Jan. $2025$; tentative)
 
 
 # Courses offered
