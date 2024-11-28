@@ -16,7 +16,7 @@ author_profile: true
 
 Some useful resources
 
-- My crude draft of my notes on [Probability Models and Application](https://hackmd.io/@bharathbn/SJtiTVvFC)
+- My crude draft of my notes on [Probability Models and Application](https://hackmd.io/@bharathbn/ryNX5Zygp)
 - My notes on Data Analysis [statistics and application](https://hackmd.io/@bharathbn/ryNX5Zygp)
 - My notes on Pattern Recognition and Machine Learningn [SVM, Kernel methods etc.](https://hackmd.io/@bharathbn/Sy56lhMRT)
 - My notes/book on Linear Algebra **[e212_matrixtheory_oct8](/mywebpage/files/e212_matrixtheory_oct8.pdf)**
