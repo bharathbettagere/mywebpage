@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Book Chapter
 
-1. **B. N. Bharath**, Nagananda, K. G., Gündúz, D., and H. V. Poor, "Caching with time-varying popularity profiles," In Edge Caching for Mobile Networks (pp. 519-536). Institution of Engineering and Technology, $2022$.
+1. **B. N. Bharath**, Nagananda, K. G., Gündúz, D., and H. V. Poor, "Caching with time-varying popularity profiles," In Edge Caching for Mobile Networks (pp. 519-536), Institution of Engineering and Technology, $2022$.
    
 # Conference
 
