@@ -24,6 +24,8 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
+Two papers from my group got accepted at ICASSP $2025$. Congratulations to Sumit Sah (PhD student) and Tanvi S. Nayak ($3$rd year B. Tech student in computer science)!
+
 **Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
 
 Delivered a talk at IIT Bombay on May 24th, 2024. Title: **"Generalization of FedAvg Under Constrained Polyak-Lojasiewicz Conditions: A Single Hidden Layer Neural Network (NN) Analysis"**, joint work with Sumit, Shruti and Prashant Khanduri.
