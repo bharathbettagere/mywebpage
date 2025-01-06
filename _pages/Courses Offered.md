@@ -9,6 +9,7 @@ author_profile: true
 ---
 # Upcoming course: Information Theory (Jan. $2025$; tentative)
 
+- Link to the course page [click here](https://hackmd.io/@bharathbn/rJaTk7FIJg)
 
 # Courses offered
 
