@@ -7,9 +7,10 @@ author_profile: true
  # - /LIaN/
   #- /LIaN.html
 ---
-# Upcoming course: Information Theory (Jan. $2025$; tentative)
+# Ongoing courses 
 
-- Link to the course page [click here](https://hackmd.io/@bharathbn/rJaTk7FIJg)
+- Information Theory (Jan. $2025$). Link to the course page [click here](https://hackmd.io/@bharathbn/rJaTk7FIJg)
+- Pattern Recognition (Feb. $2025$). 
 
 # Courses offered
 
