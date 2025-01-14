@@ -12,7 +12,7 @@ author_profile: true
 
 1. Sumit Sah and **B. N. Bharath**, "Online Learning with Non-convex Losses: New Condition to Achieve Small Dynamic Regret," IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Hyderabad, India, $2025$.
 2. Tanvi S. Nayak and **B. N. Bharath**, "Improved Bounds for Online Convex Optimization," IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Hyderabad, India, $2025$.
-3. Arpit Guleria, J. Harshan, Ranjitha Prasad, and **Bharath B. N.**, "On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning," to appear in CODS-COMAD 2024, Jodhpur, India, December 2024.
+3. Arpit Guleria, J. Harshan, Ranjitha Prasad, and **Bharath B. N.**, "On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning," to appear in **CODS-COMAD** 2024, Jodhpur, India, December $2024$.
 4. Shruti M., Prashant Khanduri and **B. N. Bharath**, "FedAvg for Minimizing Polyak-Lojasiewicz Objectives: The Interpolation Regime", accepted at **Asilomar** Conference on Signals, Systems, and Computers, 2023. **(Best Student Paper Award finalist!)**
 5. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
 6. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
@@ -32,8 +32,8 @@ author_profile: true
 
 # Journal
 
-1. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," accepted at Transactions on Machine Learning Research (TMLR), $2024$.
-2. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$, doi: 10.1109/TMLCN.2024.338897. 
+1. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," accepted at Transactions on Machine Learning Research (TMLR), Jan. $2025$.
+2. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$. 
 3. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B N Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023, doi: 10.1109/TRS.2023.3296900. 
 
 4. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.  **(interdisciplinary work)**
