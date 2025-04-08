@@ -10,7 +10,7 @@ author_profile: true
    
 # Conference
 
-1. Sumit Sah and **B. N. Bharath**, "Online Learning with Non-convex Losses: New Condition to Achieve Small Dynamic Regret," IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Hyderabad, India, $2025$. Click for the [https://drive.google.com/drive/folders/1rDDlsiY3Ch4F0EeDqRILQs_VmCAqMbzt?usp=sharing](Supplimentary material)
+1. Sumit Sah and **B. N. Bharath**, "Online Learning with Non-convex Losses: New Condition to Achieve Small Dynamic Regret," IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Hyderabad, India, $2025$. Click for the (https://drive.google.com/drive/folders/1rDDlsiY3Ch4F0EeDqRILQs_VmCAqMbzt?usp=sharing)
 2. Tanvi S. Nayak and **B. N. Bharath**, "Improved Bounds for Online Convex Optimization," IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Hyderabad, India, $2025$.
 3. Arpit Guleria, J. Harshan, Ranjitha Prasad, and **Bharath B. N.**, "On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning," to appear in **CODS-COMAD** 2024, Jodhpur, India, December $2024$.
 4. Shruti M., Prashant Khanduri and **B. N. Bharath**, "FedAvg for Minimizing Polyak-Lojasiewicz Objectives: The Interpolation Regime", accepted at **Asilomar** Conference on Signals, Systems, and Computers, 2023. **(Best Student Paper Award finalist!)**
