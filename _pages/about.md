@@ -24,7 +24,7 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
-**Shruti M.** successfully defended her thesis. Congratulations to her and best wishes! First PhD student to graduate from the group.
+**Shruti M.** successfully defended her thesis on $13$-th June, Friday $2025$. Congratulations to her and best wishes! First PhD student to graduate from the group.
 
 Two papers from my group got accepted at ICASSP $2025$. Congratulations to Sumit Sah (PhD student) and Tanvi S. Nayak ($3$rd year B. Tech student in computer science)!
 
