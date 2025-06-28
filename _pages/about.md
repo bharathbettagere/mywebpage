@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 
 ---
+# Looking for PhD and M. Tech by research students to work in the area of LLM and generative models. The second round of application is online. 
+Apply for PhD here: ![img](https://iitdh.ac.in/phd)
+Apply for M. Tech by research here: ![img](https://iitdh.ac.in/mtech-research)
 
+There are 4 M. Tech by research and 4 PhD seats available in my group. Many opportunities are available in other areas as well!
 # About 
 
 I am an assistant professor in the Department of electrical engineering at IIT Dharwad. I am interested in conducting fundamental research in inference, machine learning and communication. I mainly work in the area of caching in cellular networks, federated learning, bilevel optimization, online optimization/learning, distributed stochastic optimization, and signal processing for communication problems. If you are interested in any of the above, please drop me an email (**bharathbn AT iitdh DOT ac DOT in.**).
