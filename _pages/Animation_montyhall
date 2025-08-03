@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monty Hall Problem Simulator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 30px;
+            max-width: 800px;
+            width: 100%;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+
+        .game-area {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .door {
+            width: 120px;
+            height: 160px;
+            background: linear-gradient(145deg, #8B4513, #A0522D);
+            border: 4px solid #654321;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2em;
+            color: white;
+            position: relative;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .door:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+
+        .door.selected {
+            border-color: #FFD700;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+        }
+
+        .door.opened {
+            background: linear-gradient(145deg, #f0f0f0, #e0e0e0);
+            border-color: #ccc;
+        }
+
+        .door.car {
+            background: linear-gradient(145deg, #32CD32, #228B22);
+            border-color: #006400;
+        }
+
+        .door.goat {
+            background: linear-gradient(145deg, #f0f0f0, #e0e0e0);
+            border-color: #ccc;
+        }
+
+        .door-number {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0,0,0,0.7);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+
+        .controls {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .btn {
+            background: linear-gradient(145deg, #4CAF50, #45a049);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            margin: 5px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+        }
+
+        .btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        .btn.switch {
+            background: linear-gradient(145deg, #FF6B35, #F7931E);
+        }
+
+        .btn.stay {
+            background: linear-gradient(145deg, #667eea, #764ba2);
+        }
+
+        .btn.reset {
+            background: linear-gradient(145deg, #e74c3c, #c0392b);
+        }
+
+        .message {
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 20px 0;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .stat-card {
+            background: linear-gradient(145deg, #f8f9fa, #e9ecef);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .stat-value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .explanation {
+            background: #e8f4f8;
+            padding: 20px;
+            border-radius: 15px;
+            margin-top: 20px;
+            border-left: 5px solid #17a2b8;
+        }
+
+        .simulation-controls {
+            text-align: center;
+            margin: 20px 0;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 15px;
+        }
+
+        .auto-sim-btn {
+            background: linear-gradient(145deg, #17a2b8, #138496);
+        }
+
+        @media (max-width: 600px) {
+            .door {
+                width: 100px;
+                height: 130px;
+                font-size: 1.5em;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚗 The Monty Hall Problem 🐐</h1>
+        <p class="subtitle">A classic probability puzzle that challenges intuition!</p>
+        
+        <div class="game-area">
+            <div class="door" data-door="0">
+                <div class="door-number">Door 1</div>
+                <span class="door-content">🚪</span>
+            </div>
+            <div class="door" data-door="1">
+                <div class="door-number">Door 2</div>
+                <span class="door-content">🚪</span>
+            </div>
+            <div class="door" data-door="2">
+                <div class="door-number">Door 3</div>
+                <span class="door-content">🚪</span>
+            </div>
+        </div>
+
+        <div class="message" id="message">
+            Welcome! Choose a door to start the game. Behind one door is a car 🚗, behind the others are goats 🐐.
+        </div>
+
+        <div class="controls">
+            <button class="btn stay" id="stayBtn" disabled>Stay with Your Choice</button>
+            <button class="btn switch" id="switchBtn" disabled>Switch Doors</button>
+            <button class="btn reset" id="resetBtn">New Game</button>
+        </div>
+
+        <div class="simulation-controls">
+            <h3>Quick Simulation</h3>
+            <p>Run 1000 games automatically to see the probability in action!</p>
+            <button class="btn auto-sim-btn" id="autoSimBtn">Run 1000 Games</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-value" id="totalGames">0</div>
+                <div class="stat-label">Total Games</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="stayWins">0</div>
+                <div class="stat-label">Wins by Staying</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="switchWins">0</div>
+                <div class="stat-label">Wins by Switching</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="stayWinRate">0%</div>
+                <div class="stat-label">Stay Win Rate</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="switchWinRate">0%</div>
+                <div class="stat-label">Switch Win Rate</div>
+            </div>
+        </div>
+
+        <div class="explanation">
+            <h3>🧠 The Monty Hall Paradox</h3>
+            <p><strong>The Setup:</strong> You choose a door. The host (who knows what's behind each door) opens one of the remaining doors that has a goat. Now you can stick with your original choice or switch to the other unopened door.</p>
+            <p><strong>The Surprising Truth:</strong> You should always switch! When you first picked, you had a 1/3 chance of being right. That means there's a 2/3 chance the car is behind one of the other doors. When the host eliminates one wrong door, all that 2/3 probability concentrates on the remaining door.</p>
+            <p><strong>Why It's Counterintuitive:</strong> It feels like it should be 50/50, but the host's knowledge changes everything. They're not randomly opening doors - they're always showing you a goat!</p>
+        </div>
+    </div>
+
+    <script>
+        class MontyHallGame {
+            constructor() {
+                this.carPosition = 0;
+                this.playerChoice = -1;
+                this.hostOpened = -1;
+                this.gamePhase = 'choosing'; // 'choosing', 'deciding', 'finished'
+                this.stats = {
+                    totalGames: 0,
+                    stayWins: 0,
+                    switchWins: 0
+                };
+                this.initializeGame();
+                this.bindEvents();
+            }
+
+            initializeGame() {
+                this.carPosition = Math.floor(Math.random() * 3);
+                this.playerChoice = -1;
+                this.hostOpened = -1;
+                this.gamePhase = 'choosing';
+                this.updateDisplay();
+                this.updateMessage("Choose a door to start the game!");
+            }
+
+            bindEvents() {
+                // Door clicks
+                document.querySelectorAll('.door').forEach(door => {
+                    door.addEventListener('click', (e) => {
+                        if (this.gamePhase === 'choosing') {
+                            this.selectDoor(parseInt(e.currentTarget.dataset.door));
+                        }
+                    });
+                });
+
+                // Button clicks
+                document.getElementById('stayBtn').addEventListener('click', () => this.stay());
+                document.getElementById('switchBtn').addEventListener('click', () => this.switch());
+                document.getElementById('resetBtn').addEventListener('click', () => this.reset());
+                document.getElementById('autoSimBtn').addEventListener('click', () => this.runAutoSimulation());
+            }
+
+            selectDoor(doorIndex) {
+                this.playerChoice = doorIndex;
+                this.gamePhase = 'deciding';
+                
+                // Host opens a door with a goat
+                this.openHostDoor();
+                
+                this.updateDisplay();
+                this.updateMessage(`You chose Door ${doorIndex + 1}. The host opened Door ${this.hostOpened + 1} revealing a goat 🐐. Will you stay or switch?`);
+                
+                // Enable decision buttons
+                document.getElementById('stayBtn').disabled = false;
+                document.getElementById('switchBtn').disabled = false;
+            }
+
+            openHostDoor() {
+                // Host opens a door that isn't the player's choice and doesn't have the car
+                const availableDoors = [0, 1, 2].filter(door => 
+                    door !== this.playerChoice && door !== this.carPosition
+                );
+                
+                // If player chose the car, host can open either of the other doors
+                if (availableDoors.length === 0) {
+                    availableDoors.push(...[0, 1, 2].filter(door => door !== this.playerChoice));
+                }
+                
+                this.hostOpened = availableDoors[Math.floor(Math.random() * availableDoors.length)];
+            }
+
+            stay() {
+                this.finishGame(false);
+            }
+
+            switch() {
+                // Switch to the remaining unopened door
+                const remainingDoors = [0, 1, 2].filter(door => 
+                    door !== this.playerChoice && door !== this.hostOpened
+                );
+                this.playerChoice = remainingDoors[0];
+                this.finishGame(true);
+            }
+
+            finishGame(switched) {
+                this.gamePhase = 'finished';
+                const won = this.playerChoice === this.carPosition;
+                
+                // Update stats
+                this.stats.totalGames++;
+                if (won) {
+                    if (switched) {
+                        this.stats.switchWins++;
+                    } else {
+                        this.stats.stayWins++;
+                    }
+                }
+                
+                this.revealAll();
+                
+                const action = switched ? 'switched' : 'stayed';
+                const result = won ? 'won the car! 🎉' : 'got a goat! 😅';
+                this.updateMessage(`You ${action} and ${result} The car was behind Door ${this.carPosition + 1}.`);
+                
+                // Disable decision buttons
+                document.getElementById('stayBtn').disabled = true;
+                document.getElementById('switchBtn').disabled = true;
+                
+                this.updateStats();
+            }
+
+            revealAll() {
+                document.querySelectorAll('.door').forEach((door, index) => {
+                    door.classList.add('opened');
+                    if (index === this.carPosition) {
+                        door.classList.add('car');
+                        door.querySelector('.door-content').textContent = '🚗';
+                    } else {
+                        door.classList.add('goat');
+                        door.querySelector('.door-content').textContent = '🐐';
+                    }
+                });
+            }
+
+            updateDisplay() {
+                document.querySelectorAll('.door').forEach((door, index) => {
+                    door.className = 'door';
+                    door.querySelector('.door-content').textContent = '🚪';
+                    
+                    if (index === this.playerChoice && this.gamePhase !== 'finished') {
+                        door.classList.add('selected');
+                    }
+                    
+                    if (index === this.hostOpened && this.gamePhase !== 'choosing') {
+                        door.classList.add('opened', 'goat');
+                        door.querySelector('.door-content').textContent = '🐐';
+                    }
+                });
+            }
+
+            updateMessage(text) {
+                document.getElementById('message').textContent = text;
+            }
+
+            updateStats() {
+                document.getElementById('totalGames').textContent = this.stats.totalGames;
+                document.getElementById('stayWins').textContent = this.stats.stayWins;
+                document.getElementById('switchWins').textContent = this.stats.switchWins;
+                
+                const stayRate = this.stats.totalGames > 0 ? 
+                    Math.round((this.stats.stayWins / this.stats.totalGames) * 100) : 0;
+                const switchRate = this.stats.totalGames > 0 ? 
+                    Math.round((this.stats.switchWins / this.stats.totalGames) * 100) : 0;
+                
+                document.getElementById('stayWinRate').textContent = stayRate + '%';
+                document.getElementById('switchWinRate').textContent = switchRate + '%';
+            }
+
+            reset() {
+                this.initializeGame();
+                document.getElementById('stayBtn').disabled = true;
+                document.getElementById('switchBtn').disabled = true;
+            }
+
+            async runAutoSimulation() {
+                const button = document.getElementById('autoSimBtn');
+                button.disabled = true;
+                button.textContent = 'Running...';
+                
+                const simulations = 1000;
+                let stayWins = 0;
+                let switchWins = 0;
+                
+                for (let i = 0; i < simulations; i++) {
+                    // Simulate one game
+                    const carPos = Math.floor(Math.random() * 3);
+                    const playerChoice = Math.floor(Math.random() * 3);
+                    
+                    // Host opens a door
+                    let hostOpens;
+                    const availableDoors = [0, 1, 2].filter(door => 
+                        door !== playerChoice && door !== carPos
+                    );
+                    
+                    if (availableDoors.length > 0) {
+                        hostOpens = availableDoors[0];
+                    } else {
+                        hostOpens = [0, 1, 2].filter(door => door !== playerChoice)[0];
+                    }
+                    
+                    // Check staying strategy
+                    if (playerChoice === carPos) {
+                        stayWins++;
+                    }
+                    
+                    // Check switching strategy
+                    const switchChoice = [0, 1, 2].filter(door => 
+                        door !== playerChoice && door !== hostOpens
+                    )[0];
+                    
+                    if (switchChoice === carPos) {
+                        switchWins++;
+                    }
+                    
+                    // Update display every 100 simulations
+                    if (i % 100 === 0) {
+                        await new Promise(resolve => setTimeout(resolve, 10));
+                    }
+                }
+                
+                // Update stats
+                this.stats.totalGames += simulations;
+                this.stats.stayWins += stayWins;
+                this.stats.switchWins += switchWins;
+                this.updateStats();
+                
+                button.disabled = false;
+                button.textContent = 'Run 1000 Games';
+                
+                this.updateMessage(`Simulation complete! Out of ${simulations} games, staying won ${stayWins} times (${Math.round(stayWins/simulations*100)}%) and switching won ${switchWins} times (${Math.round(switchWins/simulations*100)}%).`);
+            }
+        }
+
+        // Initialize the game when the page loads
+        window.addEventListener('DOMContentLoaded', () => {
+            new MontyHallGame();
+        });
+    </script>
+</body>
+</html>
