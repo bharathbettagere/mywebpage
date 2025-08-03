@@ -29,6 +29,7 @@ My group comprises of bright research students from diverse backgrounds such as 
 
 
 ## News
+- Shruti successfully defended her PhD thesis. Congratulations!
 - Congratulations to Shruti! Her paper at Asilomar 2023 got shortlisted for the Best Student Paper Award contest
 - My former undergraduate project student Anuroop got the prestigious **J. R. Tata Endowment Scholarship**. Congratulations Anuroop!
 
@@ -38,10 +39,10 @@ My group comprises of bright research students from diverse backgrounds such as 
 
 Alumni list
 
-- Sawan Mehara at **NXP Semiconductors**, Bengaluru)
-- Anuroop Sai (At **USC, Computer science**, Congratulations!)
-- Yash Doshi (Currently, MS student in Canada)
-- Samveed Desai (Pursuing **MS at UCSD.**)
+- Sawan Mehara: Eindhoven University of Technology (2025-present), worked at NXP-Semiconductors before joining PhD
+- Anuroop Sai (MS from **USC, Computer science**)
+- Yash Doshi (MS from a Canadian university)
+- Samveed Desai (**MS from UCSD.**)
 
 
 
