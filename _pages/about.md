@@ -7,14 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 
----
-# Looking for PhD and M. Tech by research students to work in the area of LLM and generative models. The second round of application is online. 
 
-Apply for PhD here: https://iitdh.ac.in/phd
-
-Apply for M. Tech by research here: https://iitdh.ac.in/mtech-research
-
-There are 4 M. Tech by research and 4 PhD seats available in my group. Many opportunities are available in other areas as well!
 
 # About 
 
