@@ -22,7 +22,6 @@ LIaN stands for Learning, Inference and Networks. As the name indicates, the mai
 My group comprises of bright research students from diverse backgrounds such as mathematics, computer science, and electrical engineering. The following are the research members of my group:
 
 - Sumit Sah (Ph.D. student): Distributed Learning (Generalization and convergence)
-- Amit Malaghan (Junior Research Fellow): Design and Implementation of online caching algorithms on SDRs
 - Akash Murthy (Co-founder of Euprime, collaborator, and research project member): Working mostly on distributed learning problems
 
 
@@ -39,6 +38,7 @@ Alumni list
 
 - Shruti: Assistant professor, IIIT Dharwad; 29th Dec., 2025.
 - Sawan Mehara (![img](https://rocketreach.co/sawan-mahara-email_355943659): Eindhoven University of Technology (2025-present), worked at NXP-Semiconductors before joining PhD
+- Amit Malaghan (Junior Research Fellow): Design and Implementation of online caching algorithms on SDRs. Currenlty, studying PhD at IIT Hyderabad.
 - Anuroop Sai (MS from **USC, Computer science**)
 - Yash Doshi (MS from a Canadian university)
 - Samveed Desai (**MS from UCSD.**)
