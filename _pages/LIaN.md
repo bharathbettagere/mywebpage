@@ -37,7 +37,7 @@ My group comprises of bright research students from diverse backgrounds such as 
 Alumni list
 
 - Shruti: Assistant professor, IIIT Dharwad; 29th Dec., 2025.
-- Sawan Mehara (![img](https://rocketreach.co/sawan-mahara-email_355943659): Eindhoven University of Technology (2025-present), worked at NXP-Semiconductors before joining PhD
+- Sawan Mehara ![img](https://rocketreach.co/sawan-mahara-email_355943659): Eindhoven University of Technology (2025-present), worked at NXP-Semiconductors before joining PhD
 - Amit Malaghan (Junior Research Fellow): Design and Implementation of online caching algorithms on SDRs. Currenlty, studying PhD at IIT Hyderabad.
 - Anuroop Sai (MS from **USC, Computer science**)
 - Yash Doshi (MS from a Canadian university)
