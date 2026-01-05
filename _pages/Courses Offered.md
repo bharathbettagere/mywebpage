@@ -9,8 +9,8 @@ author_profile: true
 ---
 # Ongoing courses 
 
-- Information Theory (Jan. $2025$). Link to the course page [click here](https://hackmd.io/@bharathbn/rJaTk7FIJg)
-- Pattern Recognition (Feb. $2025$). 
+- Information Theory (Jan. $2026$). Link to the course page [click here](https://hackmd.io/@bharathbn/rJaTk7FIJg)
+- Detection and estimation theory [click here](https://hackmd.io/@bharathbn/Hy96ZndE-g). 
 
 # Courses offered
 
