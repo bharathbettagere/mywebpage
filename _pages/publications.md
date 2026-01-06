@@ -22,7 +22,7 @@ author_profile: true
 
 6. Shashank P and **B. N. Bharath**, “Online Caching With Fetching Cost for Arbitrary Demand Pattern: A Drift-Plus-Penalty Approach”, IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Rhodes Island, Greece, 2023.
 
-7. Sawan S. Mahara, Shruti K., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
+7. Sawan S. Mahara, Shruti M., and **B. N. Bharath**, “Multi-Task Federated Edge Learning (MTFeeL) With SignSGD”, National Conference on Communications **(NCC)** 2022.
 
 8. Bhavya Joshi, Rajshekhar Bhat, **B. N. Bharath** and Rahul Vaze, “Minimization of Age of Incorrect Estimates of Autoregressive Markov Processes”, Proc. **IEEE WiOPT**, Philadelphia, USA, 2021.
 
