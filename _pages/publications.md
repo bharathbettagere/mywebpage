@@ -50,35 +50,37 @@ author_profile: true
 
 # Journal
 
-1. Shruti M and **B. N. Bharath**, "Byzantine-Robust and Hessian-Free Federated Bilevel Optimization", accepted at Transactions on Machine Learning Research (TMLR), August $2025$.
+1. Guleria, A., Jagadeesh, H., Prasad, R., and **B. N. Bharath**, ``On homomorphic encryption based strategies for class imbalance in federated learning," Journal Discover Data, Springer Nature, 3(1), 59, $2025$.
 
-2. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," accepted at Transactions on Machine Learning Research (TMLR), Jan. $2025$.
+2. Shruti M and **B. N. Bharath**, "Byzantine-Robust and Hessian-Free Federated Bilevel Optimization", accepted at Transactions on Machine Learning Research (TMLR), August $2025$.
 
-3. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$. 
+3. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," accepted at Transactions on Machine Learning Research (TMLR), Jan. $2025$.
 
-4. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B N Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023, doi: 10.1109/TRS.2023.3296900. 
+4. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$. 
 
-5. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.  **(interdisciplinary work)**
+5. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B N Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023, doi: 10.1109/TRS.2023.3296900. 
 
-6. S Krishnendu, **B. N. Bharath**, Vimal Bhatia, Jamel Nebhen, Michal Dobrovolny, Tharmalingam Ratnarajah, Wireless Edge Caching and Content Popularity Prediction using Machine Learning, IEEE Consumer Electronics Magazine, March 2022.
+6. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.  **(interdisciplinary work)**
 
-7. S. Krishnendu, **B. N. Bharath**, N. Garg, V. Bhatia and T. Ratnarajah, “Learning to Cache: Federated Caching in a Cellular Network With Correlated Demands,” in *IEEE Transactions on Communications*, vol. 70, no. 3, pp. 1653-1665, March 2022.
+7. S Krishnendu, **B. N. Bharath**, Vimal Bhatia, Jamel Nebhen, Michal Dobrovolny, Tharmalingam Ratnarajah, Wireless Edge Caching and Content Popularity Prediction using Machine Learning, IEEE Consumer Electronics Magazine, March 2022.
 
-8. Navneet Garg, Mathini Sellathurai, Vimal Bhatia, **B. N. Bharath** and Tharm Ratnarajah, “Online Content Popularity Prediction and Learning in Wireless Edge Caching,” in *IEEE Transactions on Communications*, vol. 68, no. 2, pp. 1087-1100, Feb. 2020
+8. S. Krishnendu, **B. N. Bharath**, N. Garg, V. Bhatia and T. Ratnarajah, “Learning to Cache: Federated Caching in a Cellular Network With Correlated Demands,” in *IEEE Transactions on Communications*, vol. 70, no. 3, pp. 1653-1665, March 2022.
 
-9. S. Krishnendu, **B. N. Bharath** and Vimal Bhatia, “Cache Enabled Cellular Network: Algorithm for Cache Placement and Guarantees,” in *IEEE Wireless Communications Letters*, vol. 8, no. 6, pp. 1550-1554, Dec. 2019.
+9. Navneet Garg, Mathini Sellathurai, Vimal Bhatia, **B. N. Bharath** and Tharm Ratnarajah, “Online Content Popularity Prediction and Learning in Wireless Edge Caching,” in *IEEE Transactions on Communications*, vol. 68, no. 2, pp. 1087-1100, Feb. 2020
 
-10. **B. N. Bharath**, K. G. Nagananda, D. Gündüz and H. V. Poor, “Caching With Time-Varying Popularity Profiles: A Learning-Theoretic Perspective,” in *IEEE Transactions on Communications*, vol. 66, no. 9, pp. 3837-3847, Sept. 2018.
+10. S. Krishnendu, **B. N. Bharath** and Vimal Bhatia, “Cache Enabled Cellular Network: Algorithm for Cache Placement and Guarantees,” in *IEEE Wireless Communications Letters*, vol. 8, no. 6, pp. 1550-1554, Dec. 2019.
 
-11. **B. N. Bharath**, K. G. Nagananda and H. Vincent Poor, Caching with Unknown Popularity Profiles in Heterogenous Small Cell Networks, *IEEE Transactions on Communications*, No. 18, vol. 64, pp. 1674-1686, Apr. 2016.
+11. **B. N. Bharath**, K. G. Nagananda, D. Gündüz and H. V. Poor, “Caching With Time-Varying Popularity Profiles: A Learning-Theoretic Perspective,” in *IEEE Transactions on Communications*, vol. 66, no. 9, pp. 3837-3847, Sept. 2018.
 
-12. **B. N. Bharath** and C. R. Murthy, Power-Controlled Reverse Channel Training in a Multiuser TDD-MIMO Spatial Multiplexing System with CSIR, *IEEE Transactions on Veh. Technology*, vol. 62, no. 9, pp. 4345 – 4356, Nov. 2013.
+12. **B. N. Bharath**, K. G. Nagananda and H. Vincent Poor, Caching with Unknown Popularity Profiles in Heterogenous Small Cell Networks, *IEEE Transactions on Communications*, No. 18, vol. 64, pp. 1674-1686, Apr. 2016.
 
-13. **B. N. Bharath** and C. R. Murthy, Channel Training Signal Design for Reciprocal Multiple Antenna Systems with Beamforming, *IEEE Transactions on Veh. Technology*, vol. 62, no. 1, pp. 140 – 151, Jan. 2013.
+13. **B. N. Bharath** and C. R. Murthy, Power-Controlled Reverse Channel Training in a Multiuser TDD-MIMO Spatial Multiplexing System with CSIR, *IEEE Transactions on Veh. Technology*, vol. 62, no. 9, pp. 4345 – 4356, Nov. 2013.
 
-14. **B. N. Bharath** and C. R. Murthy, Power Controlled Reverse Channel Training Achieves an Infinite Diversity Order in a TDD-SIMO System with Perfect CSIR, *IEEE Communications Letters*, vol. 16, no. 11, pp. 1800-1803, Nov. 2012.
+14. **B. N. Bharath** and C. R. Murthy, Channel Training Signal Design for Reciprocal Multiple Antenna Systems with Beamforming, *IEEE Transactions on Veh. Technology*, vol. 62, no. 1, pp. 140 – 151, Jan. 2013.
 
-15. ***B. N. Bharath** and C. R. Murthy,* On the DMT of TDD-SIMO Systems with Channel-Dependent Reverse Channel Training, *IEEE Transactions on Communications,* vol. 60, no. 11, pp. 3332-3341, Nov. 2012.
+15. **B. N. Bharath** and C. R. Murthy, Power Controlled Reverse Channel Training Achieves an Infinite Diversity Order in a TDD-SIMO System with Perfect CSIR, *IEEE Communications Letters*, vol. 16, no. 11, pp. 1800-1803, Nov. 2012.
+
+16. ***B. N. Bharath** and C. R. Murthy,* On the DMT of TDD-SIMO Systems with Channel-Dependent Reverse Channel Training, *IEEE Transactions on Communications,* vol. 60, no. 11, pp. 3332-3341, Nov. 2012.
 
 Research work that did not find the light of day:-(
 
