@@ -52,7 +52,7 @@ author_profile: true
 
 1. Guleria, A., Jagadeesh, H., Prasad, R., and **B. N. Bharath**, ``On homomorphic encryption based strategies for class imbalance in federated learning," Journal Discover Data, Springer Nature, 3(1), 59, $2025$.
 
-2. Shruti M and **B. N. Bharath**, "Byzantine-Robust and Hessian-Free Federated Bilevel Optimization", accepted at Transactions on Machine Learning Research (TMLR), August $2025$.
+2. Shruti M and **B. N. Bharath**, "Byzantine-Robust and Hessian-Free Federated Bilevel Optimization", Transactions on Machine Learning Research (TMLR), August $2025$.
 
 3. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," accepted at Transactions on Machine Learning Research (TMLR), Jan. $2025$.
 
