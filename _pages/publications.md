@@ -11,7 +11,7 @@ author_profile: true
 # Preprints
 
 1. Sumit Sah and **B. N. Bharath**, ``Localized Growth Conditions for Decentralized FedAvg: Convergence to Global Optimal Points", $2026$
-2. Shruti M. and  \textbf{B. N. Bharath}, ``Efficient Online Composite Optimization via Proximal Skipping and dynamic regret analysis".
+2. Shruti M. and  \**B. N. Bharath**, ``Efficient Online Composite Optimization via Proximal Skipping and dynamic regret analysis".
 3. Sumit Sah and **B. N. Bharath**, "A PL-type Framework for Dynamic Regret in Non-Convex, Non-Smooth Online Composite Optimization".
 4. Shruti M., **B. N. Bharath** and Prashant Khanduri, "Low Complexity Online Bilevel Optimization".
    
@@ -19,7 +19,7 @@ author_profile: true
 
 1. Zubaida Fatima, Zubair Shaban, Yusuf Jamal, Nazreen Shah, Ranjitha Prasad, and  **B. N. Bharath**, "Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks", under review at ICASSP $2026$
 
-2. Arpit Guleria, J. Harshan, Ranjitha Prasad, and **B. N. Bharath**, ``On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning,'' \textit{CODS-COMAD 2024}, Jodhpur, India, 2024.
+2. Arpit Guleria, J. Harshan, Ranjitha Prasad, and **B. N. Bharath**, "On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning," *CODS-COMAD 2024*, Jodhpur, India, 2024.
 
 3. Sumit Sah and **B. N. Bharath**, "Online Learning with Non-convex Losses: New Condition to Achieve Small Dynamic Regret," IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Hyderabad, India, $2025$. [Supplimentary material](https://drive.google.com/drive/folders/1rDDlsiY3Ch4F0EeDqRILQs_VmCAqMbzt?usp=sharing)
 
