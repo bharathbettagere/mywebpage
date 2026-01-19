@@ -17,7 +17,7 @@ author_profile: true
    
 # Conference
 
-1. Zubaida Fatima, Zubair Shaban, Yusuf Jamal, Nazreen Shah, Ranjitha Prasad, and  **B. N. Bharath**, "Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks", under review at ICASSP $2026$
+1. Zubaida Fatima, Zubair Shaban, Yusuf Jamal, Nazreen Shah, Ranjitha Prasad, and  **B. N. Bharath**, "Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks", IEEE Int. Conf. on Acoustics, Speech and Sig. Proc. **(ICASSP)**, Barcelona, Spain, $2026$.
 
 2. Arpit Guleria, J. Harshan, Ranjitha Prasad, and **B. N. Bharath**, "On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning," *CODS-COMAD 2024*, Jodhpur, India, 2024.
 
