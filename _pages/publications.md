@@ -10,10 +10,10 @@ author_profile: true
 
 # Preprints
 
-1. Sumit Sah and **B. N. Bharath**, ``Localized Growth Conditions for Decentralized FedAvg: Convergence to Global Optimal Points", $2026$
-2. Shruti M. and  \**B. N. Bharath**, ``Efficient Online Composite Optimization via Proximal Skipping and dynamic regret analysis".
-3. Sumit Sah and **B. N. Bharath**, "A PL-type Framework for Dynamic Regret in Non-Convex, Non-Smooth Online Composite Optimization".
-4. Shruti M., **B. N. Bharath** and Prashant Khanduri, "Low Complexity Online Bilevel Optimization".
+1. Sumit Sah and **B. N. Bharath**, ``Localized Growth Conditions for Decentralized FedAvg: Convergence to Global Optimal Points", $2026$.
+2. Shruti M. and  \**B. N. Bharath**, ``Efficient Online Composite Optimization via Proximal Skipping and dynamic regret analysis", $2026$.
+3. Sumit Sah and **B. N. Bharath**, "A PL-type Framework for Dynamic Regret in Non-Convex, Non-Smooth Online Composite Optimization", $2026$.
+4. Shruti M., **B. N. Bharath** and Prashant Khanduri, "Low Complexity Online Bilevel Optimization", $2026$.
    
 # Conference
 
