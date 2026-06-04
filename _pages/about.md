@@ -31,6 +31,8 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 - **Shruti M.** successfully defended her thesis on $13$-th June, Friday $2025$. Congratulations to her and best wishes! First PhD student to graduate from the group.
 
+- Gave a tutorial on optimization methods for Federated Learning at NCC $2025$.
+
 - Two papers from my group got accepted at ICASSP $2025$. Congratulations to Sumit Sah (PhD student) and Tanvi S. Nayak ($3$rd year B. Tech student in computer science)!
 
 - **Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
@@ -43,7 +45,7 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 - **Shruti (PhD student): Best Student Paper award finalist at Asilomar 2023!** 
 
-**My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
+- **My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
 
-**Attended AISS at IIIT Delhi in July 2023, and enjoyed discussing federated learning with experts. Gave a series of three tutorial-style lectures.**
+- **Attended AISS at IIIT Delhi in July 2023, and enjoyed discussing federated learning with experts. Gave a series of three tutorial-style lectures.**
 
