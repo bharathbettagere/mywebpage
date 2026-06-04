@@ -23,7 +23,11 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
-**Shruti M.** will start her academic journey as an assistant professor at IIIT Dharwad soon. Congratulations, Shruti!
+**My joint work with Ranjitha Prasad and group at IIIT Delhi got accepted at TMLR. The work is on theoretical foundations of Continual Learning (CL) using Drift-Plus-Penalty (DPP) method. Congratulations!
+
+**Sumit Sah gave his pre-synopys, and currently he is a visiting student at MBZ, Abu Dhabhi working on the security of LLMs. Congratulations, Sumit!
+
+**Shruti M.** started her academic journey as an assistant professor at IIIT Dharwad. Congratulations and good luck, Shruti!
 
 **Shruti M.** successfully defended her thesis on $13$-th June, Friday $2025$. Congratulations to her and best wishes! First PhD student to graduate from the group.
 
