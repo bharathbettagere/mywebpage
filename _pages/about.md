@@ -14,7 +14,7 @@ I am an associate professor in the Department of electrical, electronics and com
 
 I am interested in hosting **undergraduates for internships**. I have a few success stories regarding publishing serious research papers with undergraduate students. If you are an undergraduate student with a strong inclination towards mathematics and would like to work with me, please drop in an email describing your interest and a short CV to **bharathbn AT iitdh DOT ac DOT in.** 
 
-If you have **Msc in mathematics or equivalent**, and is interested in working with me in theoretical machine learning or optimization theory, please send me an email along with your CV. 
+If you have **Msc in mathematics/physics or equivalent**, and is interested in working with me in theoretical machine learning or optimization theory or LLMs, please send me an email along with your CV. 
 
 # Research Interests
 
