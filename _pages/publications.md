@@ -59,7 +59,7 @@ author_profile: true
 
 # Journal
 
-1. Nazreen Shah, Govinda Arya, **B. N. Bharath**, Ranjitha Prasad, ``Theoretical Foundations of Continual Learning via Drift-Plus-Penalty," accepted at Transactions on Machine Learning Research (TMLR), June $2026$.
+1. Nazreen Shah, Govinda Arya, **B. N. Bharath**, and Ranjitha Prasad, ``Theoretical Foundations of Continual Learning via Drift-Plus-Penalty," accepted at Transactions on Machine Learning Research (TMLR), June $2026$.
 
 2. Guleria, A., Jagadeesh, H., Prasad, R., and **B. N. Bharath**, ``On homomorphic encryption based strategies for class imbalance in federated learning," Journal Discover Data, Springer Nature, 3(1), 59, $2025$.
 
