@@ -23,25 +23,25 @@ Machine learning, statistics, signal processing, online learning, distributed op
 
 ## NewZ
 
-**My joint work with Ranjitha Prasad and group at IIIT Delhi got accepted at TMLR. The work is on theoretical foundations of Continual Learning (CL) using Drift-Plus-Penalty (DPP) method. Congratulations!
+- **My joint work** with Ranjitha Prasad and group at IIIT Delhi got accepted at TMLR. The work is on theoretical foundations of Continual Learning (CL) using Drift-Plus-Penalty (DPP) method. Congratulations!
 
-**Sumit Sah gave his pre-synopys, and currently he is a visiting student at MBZ, Abu Dhabhi working on the security of LLMs. Congratulations, Sumit!
+- **Sumit Sah** has joined MBZ, Abu Dhabhi as a visiting research student. He is working on the security of LLMs. Congratulations, Sumit!
 
-**Shruti M.** started her academic journey as an assistant professor at IIIT Dharwad. Congratulations and good luck, Shruti!
+- **Shruti M.** started her academic journey as an assistant professor at IIIT Dharwad. Congratulations and good luck, Shruti!
 
-**Shruti M.** successfully defended her thesis on $13$-th June, Friday $2025$. Congratulations to her and best wishes! First PhD student to graduate from the group.
+- **Shruti M.** successfully defended her thesis on $13$-th June, Friday $2025$. Congratulations to her and best wishes! First PhD student to graduate from the group.
 
-Two papers from my group got accepted at ICASSP $2025$. Congratulations to Sumit Sah (PhD student) and Tanvi S. Nayak ($3$rd year B. Tech student in computer science)!
+- Two papers from my group got accepted at ICASSP $2025$. Congratulations to Sumit Sah (PhD student) and Tanvi S. Nayak ($3$rd year B. Tech student in computer science)!
 
-**Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
+- **Shruti's paper on Federated learning got accepted at TMLR. Congratulations!**
 
-Delivered a talk at IIT Bombay on May 24th, 2024. Title: **"Generalization of FedAvg Under Constrained Polyak-Lojasiewicz Conditions: A Single Hidden Layer Neural Network (NN) Analysis"**, joint work with Sumit, Shruti and Prashant Khanduri.
+- Delivered a talk at IIT Bombay on May 24th, 2024. Title: **"Generalization of FedAvg Under Constrained Polyak-Lojasiewicz Conditions: A Single Hidden Layer Neural Network (NN) Analysis"**, joint work with Sumit, Shruti and Prashant Khanduri.
 
-Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
+- Gave an invited talk at NCC 2024 on Federated Learning (work done by Shruti).
 
 ![img](https://bnbharath.files.wordpress.com/2020/06/img_1282.jpg?w=200)
 
-**Shruti (PhD student): Best Student Paper award finalist at Asilomar 2023!** 
+- **Shruti (PhD student): Best Student Paper award finalist at Asilomar 2023!** 
 
 **My former undergraduate project student Anuroop got the prestigious J. R. Tata Endowment Scholarship. Congratulations Anuroop!**
 
