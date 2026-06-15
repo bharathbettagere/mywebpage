@@ -69,7 +69,7 @@ author_profile: true
 
 5. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$. 
 
-6. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B N Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023, doi: 10.1109/TRS.2023.3296900. 
+6. Suryavijoy Kar, Sherin Babu, Dhruv Jain, Yedhu Shali, Saritha D S, Rajshekhar V Bhat and **B. N. Bharath**, Deep Learning based Track Prediction and Correction for a Radar Target, IEEE Transactions on Radar Systems, vol. 1, pp. 395-400, 2023, doi: 10.1109/TRS.2023.3296900. 
 
 7. S. Kulkarni, **B. N. Bharath** and R. Ghosh, CuO Nanowires-Based Resistive Sensor for Accurate Classification of Multiple Vapors, in IEEE Sensors Journal, vol. 23, no. 10, pp. 10293-10300, 15 May15, 2023.  **(interdisciplinary work)**
 
