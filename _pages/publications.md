@@ -59,13 +59,13 @@ author_profile: true
 
 # Journal
 
-1. Nazreen Shah, Govinda Arya, **B. N. Bharath**, and Ranjitha Prasad, ``Theoretical Foundations of Continual Learning via Drift-Plus-Penalty," accepted at Transactions on Machine Learning Research (TMLR), June $2026$, [Link:](https://openreview.net/forum?id=QhxNMdhhBy) .
+1. Nazreen Shah, Govinda Arya, **B. N. Bharath**, and Ranjitha Prasad, ``Theoretical Foundations of Continual Learning via Drift-Plus-Penalty," accepted at Transactions on Machine Learning Research (TMLR), June $2026$, [Click here for the openreview link](https://openreview.net/forum?id=QhxNMdhhBy) .
 
 2. Guleria, A., Jagadeesh, H., Prasad, R., and **B. N. Bharath**, ``On homomorphic encryption based strategies for class imbalance in federated learning," Journal Discover Data, Springer Nature, 3(1), 59, $2025$.
 
-3. Shruti M and **B. N. Bharath**, "Byzantine-Robust and Hessian-Free Federated Bilevel Optimization", Transactions on Machine Learning Research (TMLR), August $2025$, [Link:](https://openreview.net/pdf?id=5trmyvtkeo).
+3. Shruti M and **B. N. Bharath**, "Byzantine-Robust and Hessian-Free Federated Bilevel Optimization", Transactions on Machine Learning Research (TMLR), August $2025$, [Click here for the openreveiw link](https://openreview.net/pdf?id=5trmyvtkeo).
 
-4. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," Transactions on Machine Learning Research (TMLR), Jan. $2025$, [Link:](https://openreview.net/pdf?id=Og3VxBFhwj).
+4. Shruti M., Prashant Khanduri and **B. N. Bharath**, "Linear Convergence of Decentralized FedAvg for PL Objectives: The Interpolation Regime," Transactions on Machine Learning Research (TMLR), Jan. $2025$, [Link to the paper](https://openreview.net/pdf?id=Og3VxBFhwj).
 
 5. Krishnendu S. Tharakan, **B. N. Bharath** and Vimal Bhatia, Online Learning to Cache and Recommend in the Next Generation Cellular Networks, IEEE Transactions on Machine Learning in Communications and Networking vol. $2$, pp. $511-525$, $2024$. 
 
