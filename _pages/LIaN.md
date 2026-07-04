@@ -14,7 +14,7 @@ author_profile: true
 
 # LIaN Lab
 
-![img](https://bnbharath.files.wordpress.com/2020/06/img_20200618_004028.jpg?w=750)
+![img](https://raw.githubusercontent.com/bharathbettagere/mywebpage/master/images/Lian_important.png)
 
 
 LIaN stands for Learning, Inference and Networks. As the name indicates, the main focus of the LIAN lab is to solve learning and inference problems in a networked system. We focus on using various tools such as probability theory, distributed stochastic optimization, machine learning, information theory, and signal processing to solve some of the existing real-world problems. Currently, the group is focusing on two broad problem areas, namely caching and distributed (federated) learning. We use online learning to solve problems related to caching. We look at some of the exciting problems in caching such as caching of files, caching of products (as in warehouses), caching of services, etc. A part of my group is looking into the problems related to the theoretical underpinnings of distributed learning. In particular, we answer questions related to generalization, convergence of algorithms, etc. See the publication list to get a view of the kind of problems that we address. Currently, the lab members are working on caching in cellular networks and federated learning with a theoretical focus.
