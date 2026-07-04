@@ -7,10 +7,6 @@ author_profile: true
  # - /LIaN/
   #- /LIaN.html
 ---
-# Openings 
-- Want to work with me on LLMs or related topics? Drop in an email. We can have a chat. 
-- Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions.
-
 
 # LIaN Lab
 
@@ -30,6 +26,10 @@ My group comprises of bright research students from diverse backgrounds such as 
 - Congratulations to Shruti! Her paper at Asilomar 2023 got shortlisted for the Best Student Paper Award contest
 - My former undergraduate project student Anuroop got the prestigious **J. R. Tata Endowment Scholarship**. Congratulations Anuroop!
 
+
+# Openings 
+- Want to work with me on LLMs or related topics? Drop in an email. We can have a chat. 
+- Looking for bright PhD and MS students who are interested in mathematical aspects of machine learning and optimization. Please apply from our insitute webpage for these positions.
 
 
 
