@@ -8,7 +8,7 @@ author_profile: true
   #- /LIaN.html
 ---
 # Ongoing courses 
-- Digital Communication and Coding theory (August $2026$). Link to the course notes: [click here]([https://hackmd.io/@bharathbn/rJaTk7FIJg](https://hackmd.io/@e6uWBwLETTKYtXppfOTlig/S1atBQ8Uze))
+- Digital Communication and Coding theory (August $2026$). Link to the course notes: [click here](https://hackmd.io/@e6uWBwLETTKYtXppfOTlig/S1atBQ8Uze)
 
 # Courses offered
 
