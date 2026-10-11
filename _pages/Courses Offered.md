@@ -9,6 +9,7 @@ author_profile: true
 ---
 # Ongoing courses 
 - Digital Communication and Coding theory (August $2026$). Link to the course notes: [click here](https://hackmd.io/@e6uWBwLETTKYtXppfOTlig/S1atBQ8Uze)
+  - CFO estimation notes: **[useful_results](/mywebpage/files/Frequency_Offset_Correction_SDR_Notes.pdf)**
 
 # Courses offered
 
